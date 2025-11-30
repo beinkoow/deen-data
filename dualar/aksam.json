@@ -1,0 +1,41 @@
+{
+  "title": "Akşam Duaları",
+  "description": "Akşam vakti okunması tavsiye edilen zikirler ve dualar.",
+  "items": [
+    {
+      "id": 1,
+      "arabic": "أَمْسَيْنَا وَأَمْسَى الْمُلْكُ لِلَّهِ وَالْحَمْدُ لِلَّهِ...",
+      "latin": "Emsaynâ ve emsâ'l-mulku lillâh vel-hamdü lillâh...",
+      "meaning": "Akşama Allah’ın mülkü içinde girdik. Hamd O’na mahsustur...",
+      "source": "Ebû Davud, Edeb 101"
+    },
+    {
+      "id": 2,
+      "arabic": "اللَّهُمَّ مَا أَمْسَى بِي مِنْ نِعْمَةٍ أَوْ بِأَحَدٍ مِنْ خَلْقِكَ...",
+      "latin": "Allahümme mâ emsâ bî min ni‘metin ev bi ehedin min halkik...",
+      "meaning": "Allah’ım! Bana veya kullarından herhangi birine erişen nimet Sen’dendir...",
+      "source": "Nesâî, Amelu’l-Yevm"
+    },
+    {
+      "id": 3,
+      "arabic": "حَسْبِيَ اللَّهُ لَا إِلٰهَ إِلَّا هُوَ عَلَيْهِ تَوَكَّلْتُ...",
+      "latin": "Hasbiyallâhu lâ ilâhe illâ hû, aleyhi tevekkeltu...",
+      "meaning": "Allah bana yeter. Ondan başka ilah yoktur. O’na tevekkül ettim...",
+      "source": "Tevbe 129"
+    },
+    {
+      "id": 4,
+      "arabic": "بِسْمِ اللَّهِ الَّذِي لَا يَضُرُّ مَعَ اسْمِهِ شَيْءٌ...",
+      "latin": "Bismillâhillezî lâ yedurru me‘asmihî şey’un...",
+      "meaning": "Allah’ın adıyla… O’nun adıyla hiçbir şey zarar veremez...",
+      "source": "Tirmizî, Daavât 338"
+    },
+    {
+      "id": 5,
+      "arabic": "اللَّهُمَّ إِنِّي أَمْسَيْتُ أُشْهِدُكَ وَأُشْهِدُ حَمَلَةَ عَرْشِكَ...",
+      "latin": "Allahümme innî emseytu uşhiduke ve uşhidu hamalete arşik...",
+      "meaning": "Allah’ım! Akşama Sen’i, Arş’ını taşıyan meleklerini şahid tutarak girdim...",
+      "source": "Ebû Davud, Edeb 101"
+    }
+  ]
+}
