@@ -1,0 +1,30 @@
+{
+  "title": "Yemekten Sonra Dualar",
+  "description": "Yemeğin ardından şükür için okunması tavsiye edilen dualar.",
+  "items": [
+    {
+      "id": 1,
+      "name": "Elhamdülillah",
+      "arabic": "اَلْحَمْدُ لِلّٰهِ",
+      "latin": "Elhamdülillah.",
+      "meaning": "Hamd Allah’a mahsustur.",
+      "repeat": 1
+    },
+    {
+      "id": 2,
+      "name": "Tam Şükür Duası",
+      "arabic": "اَلْحَمْدُ لِلّٰهِ الَّذِي أَطْعَمَنَا وَسَقَانَا وَجَعَلَنَا مِنَ الْمُسْلِمِينَ",
+      "latin": "Elhamdülillâhillezî et'amenâ ve sekânâ ve cealenâ minel-müslimîn.",
+      "meaning": "Bizi yedirip içiren ve Müslümanlardan kılan Allah’a hamd olsun.",
+      "repeat": 1
+    },
+    {
+      "id": 3,
+      "name": "Rızık Şükrü",
+      "arabic": "اَلْحَمْدُ لِلّٰهِ رَبِّ الْعَالَمِينَ",
+      "latin": "Elhamdülillâhi Rabbil âlemîn.",
+      "meaning": "Âlemlerin Rabbi olan Allah’a hamd olsun.",
+      "repeat": 1
+    }
+  ]
+}
