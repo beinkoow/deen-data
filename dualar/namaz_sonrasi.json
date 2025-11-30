@@ -1,0 +1,70 @@
+{
+  "title": "Namaz Sonrası Dualar",
+  "description": "Namazdan sonra okunması tavsiye edilen tesbih, ayet ve dualar.",
+  "items": [
+    {
+      "id": 1,
+      "name": "Seleme Duası",
+      "arabic": "اَلسَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللّٰهِ",
+      "latin": "Esselâmü aleyküm ve rahmetullah.",
+      "meaning": "Allah’ın selâmı ve rahmeti üzerinize olsun.",
+      "source": "Namaz selamı"
+    },
+    {
+      "id": 2,
+      "name": "33 Sübhanallah – 33 Elhamdülillah – 34 Allahu Ekber",
+      "arabic": "سُبْحَانَ اللّٰهِ ٣٣\nاَلْحَمْدُ لِلّٰهِ ٣٣\nاَللّٰهُ اَكْبَرُ ٣٤",
+      "latin": "Sübhanallah (33), Elhamdülillah (33), Allahu Ekber (34).",
+      "meaning": "Allah'ı tesbih eder, hamdeder ve O’nun en büyük olduğunu ifade ederiz.",
+      "source": "Buhari, Deavât 64"
+    },
+    {
+      "id": 3,
+      "name": "Ayet-el Kürsi",
+      "arabic": "اللّٰهُ لَا إِلٰهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ...",
+      "latin": "Allahu lâ ilâhe illâ hüve’l-hayyü’l-kayyûm...",
+      "meaning": "Allah’tan başka ilah yoktur; O diri ve kayyumdur...",
+      "source": "Bakara 255"
+    },
+    {
+      "id": 4,
+      "name": "Âmennerrasûlü (Bakara 285-286)",
+      "arabic": "آمَنَ الرَّسُولُ بِمَا أُنْزِلَ إِلَيْهِ...",
+      "latin": "Âmenerrasûlü bimâ unzile ileyhi...",
+      "meaning": "Peygamber ve müminler Rabbinden indirilen her şeye iman ettiler...",
+      "source": "Bakara 285-286"
+    },
+    {
+      "id": 5,
+      "name": "Salli – Barik (Salavatlar)",
+      "arabic": "اللّٰهُمَّ صَلِّ عَلٰى مُحَمَّدٍ...",
+      "latin": "Allahümme salli alâ Muhammed...",
+      "meaning": "Allah’ım! Muhammed’e ve ailesine salât eyle...",
+      "source": "Buhari, Enbiya 10"
+    },
+    {
+      "id": 6,
+      "name": "Estağfirullah (3 defa)",
+      "arabic": "أَسْتَغْفِرُ اللّٰهَ",
+      "latin": "Estağfirullah.",
+      "meaning": "Allah’tan bağışlanma dilerim.",
+      "source": "İstiğfar Duası"
+    },
+    {
+      "id": 7,
+      "name": "Kapanış Duası",
+      "arabic": "اَللّٰهُمَّ أَنْتَ السَّلَامُ وَمِنْكَ السَّلَامُ...",
+      "latin": "Allahümme ente’s-selâm ve minke’s-selâm...",
+      "meaning": "Allah’ım! Selâm sensin, selâmet Sendedir. Bize rahmetinle muamele eyle.",
+      "source": "Müslim, Mesacid 135"
+    },
+    {
+      "id": 8,
+      "name": "Lâ ilâhe illallahu vahdehû lâ şerîke leh",
+      "arabic": "لَا إِلٰهَ إِلَّا اللّٰهُ وَحْدَهُ لَا شَرِيكَ لَهُ...",
+      "latin": "Lâ ilâhe illallâhu vahdehû lâ şerîke leh...",
+      "meaning": "Allah’tan başka ilah yoktur. O’nun ortağı yoktur. Mülk ve hamd O’na aittir...",
+      "source": "Tirmizî, Dua 84"
+    }
+  ]
+}
