@@ -1,0 +1,30 @@
+{
+  "title": "Hastalık Duaları",
+  "description": "Şifa ve hastalıklardan korunmak için okunması tavsiye edilen dualar.",
+  "items": [
+    {
+      "id": 1,
+      "name": "Şifa Duası",
+      "arabic": "اَللّٰهُمَّ رَبَّ النَّاسِ أَذْهِبِ الْبَاسَ...",
+      "latin": "Allahümme rabben-nâsi ezhibi’l-be’s...",
+      "meaning": "Ey insanların Rabbi Allah’ım! Hastalığı gider, şifa ver.",
+      "repeat": 1
+    },
+    {
+      "id": 2,
+      "name": "7 Defa Şifa Ayeti",
+      "arabic": "اَسْأَلُ اللّٰهَ الْعَظِيمَ رَبَّ الْعَرْشِ الْعَظِيمِ أَنْ يَشْفِيَكَ",
+      "latin": "Es’elullâhel azîme rabbel arşil azîmi en yeşfiyeke.",
+      "meaning": "Yüce Allah’tan seni şifaya kavuşturmasını dilerim.",
+      "repeat": 7
+    },
+    {
+      "id": 3,
+      "name": "Ayşe Validemizin Rivayeti",
+      "arabic": "اَللّٰهُمَّ اشْفِ عَبْدَكَ...",
+      "latin": "Allahümme’şfi abdeke...",
+      "meaning": "Allah’ım! Kuluna şifa ver, ona acı.",
+      "repeat": 1
+    }
+  ]
+}
