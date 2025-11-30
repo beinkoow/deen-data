@@ -1,0 +1,30 @@
+{
+  "title": "Yemekten Önce Dualar",
+  "description": "Yemek başlamadan önce okunması sünnet olan kısa ve sahih dualar.",
+  "items": [
+    {
+      "id": 1,
+      "name": "Besmele",
+      "arabic": "بِسْمِ اللّٰهِ",
+      "latin": "Bismillâh.",
+      "meaning": "Allah'ın adıyla.",
+      "repeat": 1
+    },
+    {
+      "id": 2,
+      "name": "Tam Dua",
+      "arabic": "بِسْمِ اللّٰهِ وَعَلٰى بَرَكَةِ اللّٰهِ",
+      "latin": "Bismillâhi ve alâ bereketillâh.",
+      "meaning": "Allah’ın adıyla ve O’nun bereketiyle.",
+      "repeat": 1
+    },
+    {
+      "id": 3,
+      "name": "Rızık İçin Dua",
+      "arabic": "اَللّٰهُمَّ بَارِكْ لَنَا فِيمَا رَزَقْتَنَا",
+      "latin": "Allahümme bârik lenâ fîmâ razaktenâ.",
+      "meaning": "Allah’ım bize verdiğin rızıkları bereketli kıl.",
+      "repeat": 1
+    }
+  ]
+}
