@@ -1,0 +1,123 @@
+{
+  "title": "Sabah & Akşam Duaları",
+  "description": "Günlük manevi koruma, zikir ve tesbihat için sabah ve akşam okunması tavsiye edilen dualar.",
+  "items": [
+    {
+      "id": 1,
+      "name": "Bismillahillezî",
+      "arabic": "بِسْمِ اللّٰهِ الَّذِى لَا يَضُرُّ مَعَ اسْمِهِ شَىْءٌ فِى الْاَرْضِ وَلَا فِى السَّمَاءِ وَهُوَ السَّمِيعُ الْعَلِيمُ",
+      "latin": "Bismillâhillezî lâ yedurru me’asmihî şey’un fil-ardi velâ fis-semâi vehüves-semî’ul alîm.",
+      "meaning": "Allah’ın adıyla… O’nun ismiyle yeryüzünde ve gökyüzünde hiçbir şey zarar veremez. O işiten ve bilendir.",
+      "repeat": 3,
+      "time": "sabah & akşam"
+    },
+    {
+      "id": 2,
+      "name": "Hasbiyallah (7 defa)",
+      "arabic": "حَسْبِىَ اللّٰهُ لَاۤ اِلٰهَ اِلَّا هُوَ عَلَيْهِ تَوَكَّلْتُ وَهُوَ رَبُّ الْعَرْشِ الْعَظِيمِ",
+      "latin": "Hasbiyallâhu lâ ilâhe illâ hû, aleyhi tevekkeltu ve hüve Rabbul-arşil-azîm.",
+      "meaning": "Allah bana yeter. O’ndan başka ilah yoktur. O’na tevekkül ettim. O yüce Arş’ın Rabbidir.",
+      "repeat": 7,
+      "time": "sabah"
+    },
+    {
+      "id": 3,
+      "name": "Ayet-el Kürsi",
+      "arabic": "اللّٰهُ لَا إِلٰهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ...",
+      "latin": "Allahu lâ ilâhe illâ hüve’l-hayyü’l-kayyûm...",
+      "meaning": "Allah’tan başka ilah yoktur; O diri ve kayyumdur.",
+      "repeat": 1,
+      "time": "sabah & akşam"
+    },
+    {
+      "id": 4,
+      "name": "Felak Suresi",
+      "arabic": "قُلْ اَعُوذُ بِرَبِّ الْفَلَقِ...",
+      "latin": "Kul e‘ûzü bi-rabbil-felek...",
+      "meaning": "Kararan şeylerin şerrinden Allah’a sığınırım.",
+      "repeat": 1,
+      "time": "sabah & akşam"
+    },
+    {
+      "id": 5,
+      "name": "Nas Suresi",
+      "arabic": "قُلْ اَعُوذُ بِرَبِّ النَّاسِ...",
+      "latin": "Kul e‘ûzü bi-rabbin-nâs...",
+      "meaning": "İnsanların Rabbine sığınırım.",
+      "repeat": 1,
+      "time": "sabah & akşam"
+    },
+    {
+      "id": 6,
+      "name": "İhlas Suresi",
+      "arabic": "قُلْ هُوَ اللّٰهُ اَحَدٌ...",
+      "latin": "Kul hüvellâhu ehad...",
+      "meaning": "Allah bir tektir.",
+      "repeat": 3,
+      "time": "sabah & akşam"
+    },
+    {
+      "id": 7,
+      "name": "Estağfirullah (100 defa)",
+      "arabic": "أَسْتَغْفِرُ اللّٰهَ",
+      "latin": "Estağfirullah.",
+      "meaning": "Allah’tan bağışlanma dilerim.",
+      "repeat": 100,
+      "time": "sabah & akşam"
+    },
+    {
+      "id": 8,
+      "name": "Lâ İlahe İllallah (100 defa)",
+      "arabic": "لَا إِلٰهَ إِلَّا اللّٰهُ",
+      "latin": "Lâ ilâhe illallah.",
+      "meaning": "Allah’tan başka ilah yoktur.",
+      "repeat": 100,
+      "time": "sabah"
+    },
+    {
+      "id": 9,
+      "name": "Sabah Şükrü Duası",
+      "arabic": "اَللّٰهُمَّ مَا اَصْبَحَ بِى مِنْ نِعْمَةٍ...",
+      "latin": "Allahümme mâ asbaha bî min ni’metin...",
+      "meaning": "Allah’ın verdiği nimetlerin farkında olduğumuzu ifade eden sabah şükür duası.",
+      "repeat": 1,
+      "time": "sabah"
+    },
+    {
+      "id": 10,
+      "name": "Akşam Şükrü Duası",
+      "arabic": "اَللّٰهُمَّ مَا اَمْسٰى بِى مِنْ نِعْمَةٍ...",
+      "latin": "Allahümme mâ emsâ bî min ni’metin...",
+      "meaning": "Allah’ın verdiği nimetlerin farkında olduğumuzu ifade eden akşam şükür duası.",
+      "repeat": 1,
+      "time": "akşam"
+    },
+    {
+      "id": 11,
+      "name": "Kötülüklerden Korunma Duası",
+      "arabic": "اَللّٰهُمَّ إِنِّى أَسْأَلُكَ الْعَافِيَةَ فِى الدُّنْيَا وَالْاٰخِرَةِ",
+      "latin": "Allahümme innî es’elüke’l-afiyete fid-dünyâ vel-âhireh.",
+      "meaning": "Dünya ve ahirette afiyet isterim.",
+      "repeat": 1,
+      "time": "sabah & akşam"
+    },
+    {
+      "id": 12,
+      "name": "Sabah Teslimiyet Duası",
+      "arabic": "اَللّٰهُمَّ بِكَ أَصْبَحْنَا وَبِكَ أَمْسَيْنَا...",
+      "latin": "Allahümme bike esbahnâ ve bike emseynâ...",
+      "meaning": "Sabahı ve akşamı Allah’ın izniyle karşıladığımızı ifade eden dua.",
+      "repeat": 1,
+      "time": "sabah"
+    },
+    {
+      "id": 13,
+      "name": "Akşam Teslimiyet Duası",
+      "arabic": "اَللّٰهُمَّ بِكَ أَمْسَيْنَا وَبِكَ أَصْبَحْنَا...",
+      "latin": "Allahümme bike emseynâ ve bike esbahnâ...",
+      "meaning": "Geceyi Allah’ın izniyle karşıladığımızı ifade eden dua.",
+      "repeat": 1,
+      "time": "akşam"
+    }
+  ]
+}
