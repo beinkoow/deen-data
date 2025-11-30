@@ -1,0 +1,86 @@
+{
+  "title": "Namaz Ayetleri",
+  "description": "Namazın önemini, farz oluşunu, kul ile Allah arasındaki bağı güçlendirdiğini bildiren Kur’an ayetleri.",
+  "items": [
+    {
+      "id": 1,
+      "surah": "Bakara 43",
+      "arabic": "وَأَقِيمُوا الصَّلَاةَ وَآتُوا الزَّكَاةَ وَارْكَعُوا مَعَ الرَّاكِعِينَ",
+      "latin": "Ve eqîmûs-salâte ve âtûz-zekâte varkaû me'ar-râkiîn",
+      "meaning": "Namazı dosdoğru kılın, zekâtı verin ve rükû edenlerle birlikte rükû edin.",
+      "note": "Namazın cemaatle kılınmasına ve düzenli olmasına işaret eder."
+    },
+    {
+      "id": 2,
+      "surah": "Nisa 103",
+      "arabic": "إِنَّ الصَّلَاةَ كَانَتْ عَلَى الْمُؤْمِنِينَ كِتَابًا مَوْقُوتًا",
+      "latin": "İnna-salâte kânet alel-mu’minîne kitâben mevkûtâ",
+      "meaning": "Şüphesiz namaz, müminlere vakitleri belirlenmiş bir farz olarak yazılmıştır.",
+      "note": "Beş vakit namazın vakitli/farz oluşunu en net belirten ayettir."
+    },
+    {
+      "id": 3,
+      "surah": "Müminun 1-2",
+      "arabic": "قَدْ أَفْلَحَ الْمُؤْمِنُونَ الَّذِينَ هُمْ فِي صَلَاتِهِمْ خَاشِعُونَ",
+      "latin": "Kad eflehal-mu’minûn. Ellezîne hum fî salâtihim hâşiûn",
+      "meaning": "Müminler gerçekten kurtuluşa ermiştir; onlar ki namazlarında derin bir huşû içindedir.",
+      "note": "Namazdaki huşû, kurtuluşun anahtarı olarak gösterilir."
+    },
+    {
+      "id": 4,
+      "surah": "Ankebut 45",
+      "arabic": "إِنَّ الصَّلَاةَ تَنْهَىٰ عَنِ الْفَحْشَاءِ وَالْمُنكَرِ",
+      "latin": "İnna-salâte tenhâ anil fahşâi vel-munker",
+      "meaning": "Şüphesiz namaz hayasızlıktan ve kötülükten alıkoyar.",
+      "note": "Namazın ahlaki ve davranışsal dönüşüm sağladığını bildirir."
+    },
+    {
+      "id": 5,
+      "surah": "Bakara 238",
+      "arabic": "حَافِظُوا عَلَى الصَّلَوَاتِ وَالصَّلَاةِ الْوُسْطَىٰ",
+      "latin": "Hâfizû alessalavâti vessalâtil vustâ",
+      "meaning": "Namazlara ve özellikle orta namaza devamlı riayet edin.",
+      "note": "Namazın düzenli şekilde korunması gerektiğini vurgular."
+    },
+    {
+      "id": 6,
+      "surah": "Taha 14",
+      "arabic": "وَأَقِمِ الصَّلَاةَ لِذِكْرِي",
+      "latin": "Ve eqimis-salâte lizikrî",
+      "meaning": "Beni anmak için namazı dosdoğru kıl.",
+      "note": "Namazın ana gayesinin Allah’ı anmak olduğu belirtilir."
+    },
+    {
+      "id": 7,
+      "surah": "Hud 114",
+      "arabic": "إِنَّ الْحَسَنَاتِ يُذْهِبْنَ السَّيِّئَاتِ",
+      "latin": "İnnel hasenâti yuzhibnes-seyyiât",
+      "meaning": "Doğrusu iyilikler kötülükleri giderir.",
+      "note": "Namazın kötülüklerden arındırıcı etkisine işaret eden ayettir."
+    },
+    {
+      "id": 8,
+      "surah": "Maide 55",
+      "arabic": "إِنَّمَا وَلِيُّكُمُ اللَّهُ وَرَسُولُهُ ... وَهُمْ رَاكِعُونَ",
+      "latin": "İnnemâ veliyyukumullâhu ve rasûluhû ... vehum râkiûn",
+      "meaning": "Sizin dostunuz yalnızca Allah ve O’nun Resûlü’dür; onlar ki namaz kılarlar ve rükû ederler.",
+      "note": "Namaz kılanların Allah’ın özel himayesi altında olduğu belirtilir."
+    },
+    {
+      "id": 9,
+      "surah": "Meryem 59",
+      "arabic": "فَخَلَفَ مِن بَعْدِهِمْ خَلْفٌ أَضَاعُوا الصَّلَاةَ",
+      "latin": "Fehelefe min ba’dihim halfun adâus-salâh",
+      "meaning": "Onlardan sonra bir nesil geldi ki namazı zayi ettiler.",
+      "note": "Namazı terk etmenin toplumun manevi çöküş sebeplerinden olduğu belirtilir."
+    },
+    {
+      "id": 10,
+      "surah": "İsra 78",
+      "arabic": "أَقِمِ الصَّلَاةَ لِدُلُوكِ الشَّمْسِ إِلَىٰ غَسَقِ اللَّيْلِ",
+      "latin": "Eqimis-salâte lidulûkiş-şemsi ilâ ğasakilleyl",
+      "meaning": "Güneşin batıya kaymasından gecenin karanlığına kadar namazı dosdoğru kıl.",
+      "note": "Beş vakit zaman aralıklarının Kur’an’daki referanslarından biridir."
+    }
+  ]
+}
