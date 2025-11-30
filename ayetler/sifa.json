@@ -1,0 +1,78 @@
+{
+  "title": "Şifa Ayetleri",
+  "description": "Manevi ve ruhi hastalıklar için Kur’an’da geçen şifa ayetleri. Okunduğunda gönle huzur, ruha ferahlık ve kalbe kuvvet verir.",
+  "items": [
+    {
+      "id": 1,
+      "surah": "İsrâ 82",
+      "arabic": "وَنُنَزِّلُ مِنَ الْقُرْآنِ مَا هُوَ شِفَاءٌ وَرَحْمَةٌ لِلْمُؤْمِنِينَ",
+      "latin": "Ve nunezzilu mine’l-Kur’âni mâ huve şifâun ve rahmetun li’l-mu’minîn",
+      "meaning": "Biz Kur’an’dan müminler için şifa ve rahmet olan ayetler indiriyoruz.",
+      "note": "Kur’an’ın genel olarak bir şifa kaynağı olduğunu vurgular."
+    },
+    {
+      "id": 2,
+      "surah": "Fussilet 44",
+      "arabic": "قُلْ هُوَ لِلَّذِينَ آمَنُوا هُدًى وَشِفَاءٌ",
+      "latin": "Kul huve lillezîne âmenû huden ve şifâ",
+      "meaning": "De ki: Kur’an, iman edenler için hidayet ve şifadır.",
+      "note": "Kalp yaraları ve ruhi sıkıntılara manevi şifa."
+    },
+    {
+      "id": 3,
+      "surah": "Nahl 69",
+      "arabic": "فِيهِ شِفَاءٌ لِلنَّاسِ",
+      "latin": "Fîhi şifâun li’n-nâs",
+      "meaning": "Onda (balda) insanlar için şifa vardır.",
+      "note": "Balın hem bedensel hem ruhsal şifa olduğu belirtilir."
+    },
+    {
+      "id": 4,
+      "surah": "Şuara 80",
+      "arabic": "وَإِذَا مَرِضْتُ فَهُوَ يَشْفِينِ",
+      "latin": "Ve izâ meridtü fe huve yeşfîn",
+      "meaning": "Hastalandığım zaman bana şifa veren O’dur.",
+      "note": "Tüm şifanın Allah’tan geldiğini hatırlatan en güçlü ayetlerden."
+    },
+    {
+      "id": 5,
+      "surah": "Tevbe 14",
+      "arabic": "وَيَشْفِ صُدُورَ قَوْمٍ مُؤْمِنِينَ",
+      "latin": "Ve yeşfi sudûra kavmin mu’minîn",
+      "meaning": "Allah müminlerin kalplerine şifa verir.",
+      "note": "Stres, üzüntü ve kalp darlığına manevi ferahlık."
+    },
+    {
+      "id": 6,
+      "surah": "Feth 4",
+      "arabic": "هُوَ الَّذِي أَنْزَلَ السَّكِينَةَ فِي قُلُوبِ الْمُؤْمِنِينَ",
+      "latin": "Huve’l-lezî enzele’s-sekînete fî kulûbi’l-mu’minîn",
+      "meaning": "O, müminlerin kalbine huzur indirendir.",
+      "note": "Kalp sıkıntısı, huzursuzluk ve kaygıya karşı en etkili ayetlerden."
+    },
+    {
+      "id": 7,
+      "surah": "Yunus 57",
+      "arabic": "قَدْ جَاءَتْكُمْ مَوْعِظَةٌ مِنْ رَبِّكُمْ وَشِفَاءٌ لِمَا فِي الصُّدُورِ",
+      "latin": "Kad câetkum mev’ızatun min rabbikum ve şifâun limâ fi’s-sudûr",
+      "meaning": "Sizin için Rabbinizden bir öğüt, kalplerde olana bir şifa geldi.",
+      "note": "Moral bozukluğu, sıkıntı, keder ve kalp hastalıklarına ferahlık."
+    },
+    {
+      "id": 8,
+      "surah": "Enbiya 83",
+      "arabic": "أَنِّي مَسَّنِيَ الضُّرُّ وَأَنْتَ أَرْحَمُ الرَّاحِمِينَ",
+      "latin": "Ennî messenîye’d-durru ve ente erhamü’r-râhimîn",
+      "meaning": "“Başıma dert dokundu; Sen merhametlilerin en merhametlisisin.”",
+      "note": "Hz. Eyyûb’un sabır ve şifa duası; hastalık zamanı en çok okunan ayet."
+    },
+    {
+      "id": 9,
+      "surah": "Enbiya 89",
+      "arabic": "رَبِّ لَا تَذَرْنِي فَرْدًا وَأَنْتَ خَيْرُ الْوَارِثِينَ",
+      "latin": "Rabbi lâ tezernî ferden ve ente hayrul-vârisîn",
+      "meaning": "“Rabbim, beni yalnız bırakma; Sen varislerin en hayırlısısın.”",
+      "note": "Hastalıkta yalnızlık hissi ve umutsuzluğa karşı ilahi teselli."
+    }
+  ]
+}
