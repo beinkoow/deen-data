@@ -1,0 +1,730 @@
+[
+  {
+    "id": 1,
+    "name_ar": "ٱلرَّحْمَـٰن",
+    "name_tr": "Er-Rahmân",
+    "meaning": "Sonsuz merhamet sahibi",
+    "description": "Dünya hayatında bütün varlıklara merhamet eden."
+  },
+  {
+    "id": 2,
+    "name_ar": "ٱلرَّحِيم",
+    "name_tr": "Er-Rahîm",
+    "meaning": "Ahirette merhameti bol olan",
+    "description": "Merhameti daimî olan; özellikle müminlere rahmet eden."
+  },
+  {
+    "id": 3,
+    "name_ar": "ٱلْمَلِك",
+    "name_tr": "El-Melik",
+    "meaning": "Mutlak hükümdar",
+    "description": "Mülkün gerçek sahibi olan, hükümranlığı mutlak olan."
+  },
+  {
+    "id": 4,
+    "name_ar": "ٱلْقُدُّوس",
+    "name_tr": "El-Kuddûs",
+    "meaning": "Noksanlıklardan uzak",
+    "description": "Her türlü eksiklikten, kusurdan uzak; mutlak temiz."
+  },
+  {
+    "id": 5,
+    "name_ar": "ٱلسَّلَام",
+    "name_tr": "Es-Selâm",
+    "meaning": "Esenlik veren",
+    "description": "Kullarına güven ve huzur veren; ayıptan uzak olan."
+  },
+  {
+    "id": 6,
+    "name_ar": "ٱلْمُؤْمِن",
+    "name_tr": "El-Mü’min",
+    "meaning": "Güven veren",
+    "description": "Kullarını güvene erdiren, onları imanla huzura ulaştıran."
+  },
+  {
+    "id": 7,
+    "name_ar": "ٱلْمُهَيْمِن",
+    "name_tr": "El-Müheymin",
+    "meaning": "Gözetip koruyan",
+    "description": "Her şeyi kontrol eden, koruyan ve gözeten."
+  },
+  {
+    "id": 8,
+    "name_ar": "ٱلْعَزِيز",
+    "name_tr": "El-Azîz",
+    "meaning": "İzzet sahibi",
+    "description": "Mutlak galip; hiçbir şey kendisine üstün gelemez."
+  },
+  {
+    "id": 9,
+    "name_ar": "ٱلْجَبَّار",
+    "name_tr": "El-Cebbâr",
+    "meaning": "İradesi üstün",
+    "description": "Dilediğini zorunlu olarak yaptıran; mutlak kudret sahibi."
+  },
+  {
+    "id": 10,
+    "name_ar": "ٱلْمُتَكَبِّر",
+    "name_tr": "El-Mütekebbir",
+    "meaning": "Büyüklükte eşi olmayan",
+    "description": "Gerçek büyüklük sahibi olan; kibirden uzak."
+  },
+
+  {
+    "id": 11,
+    "name_ar": "ٱلْخَالِق",
+    "name_tr": "El-Hâlık",
+    "meaning": "Yaratan",
+    "description": "Her şeyi yoktan var eden ve ölçüp biçen."
+  },
+  {
+    "id": 12,
+    "name_ar": "ٱلْبَارِئ",
+    "name_tr": "El-Bârî",
+    "meaning": "Kusursuzca var eden",
+    "description": "Her şeyi uyumlu şekilde yaratan."
+  },
+  {
+    "id": 13,
+    "name_ar": "ٱلْمُصَوِّر",
+    "name_tr": "El-Musavvir",
+    "meaning": "Şekil veren",
+    "description": "Her varlığa özel bir suret veren."
+  },
+
+  {
+    "id": 14,
+    "name_ar": "ٱلْغَفَّار",
+    "name_tr": "El-Gaffâr",
+    "meaning": "Çok bağışlayan",
+    "description": "Günahları örten ve sınırsızca affeden."
+  },
+  {
+    "id": 15,
+    "name_ar": "ٱلْقَهَّار",
+    "name_tr": "El-Kahhâr",
+    "meaning": "Her şeye üstün gelen",
+    "description": "Her şeyi hükmü altına alan; mutlak galip."
+  },
+
+  {
+    "id": 16,
+    "name_ar": "ٱلْوَهَّاب",
+    "name_tr": "El-Vehhâb",
+    "meaning": "Karşılıksız veren",
+    "description": "Kullarına sürekli ve bolca ihsan eden."
+  },
+  {
+    "id": 17,
+    "name_ar": "ٱلرَّزَّاق",
+    "name_tr": "Er-Rezzâk",
+    "meaning": "Rızık veren",
+    "description": "Her mahlûkun rızkını garanti eden."
+  },
+  {
+    "id": 18,
+    "name_ar": "ٱلْفَتَّاح",
+    "name_tr": "El-Fettâh",
+    "meaning": "Açan, kolaylaştıran",
+    "description": "Güçlükleri açan, kapıları kolaylaştıran."
+  },
+  {
+    "id": 19,
+    "name_ar": "ٱلْعَلِيم",
+    "name_tr": "El-Alîm",
+    "meaning": "Her şeyi bilen",
+    "description": "Gaybı, görüneni ve gizliyi bilen."
+  },
+  {
+    "id": 20,
+    "name_ar": "ٱلْقَابِض",
+    "name_tr": "El-Kâbıd",
+    "meaning": "Daraltan",
+    "description": "Dilediğine rızkı daraltan, sıkıntı veren."
+  },
+  {
+    "id": 21,
+    "name_ar": "ٱلْبَاسِط",
+    "name_tr": "El-Bâsıt",
+    "meaning": "Genişleten",
+    "description": "Dilediğine rızkı genişleten ve ferahlık veren."
+  },
+  {
+    "id": 22,
+    "name_ar": "ٱلْخَافِض",
+    "name_tr": "El-Hâfıd",
+    "meaning": "Aşağı indiren",
+    "description": "Dilediğini alçaltan, değersiz kılan."
+  },
+  {
+    "id": 23,
+    "name_ar": "ٱلرَّافِع",
+    "name_tr": "Er-Râfi‘",
+    "meaning": "Yükselten",
+    "description": "Dilediğini şeref ve mertebece yükselten."
+  },
+
+  {
+    "id": 24,
+    "name_ar": "ٱلْمُعِزّ",
+    "name_tr": "El-Mu‘izz",
+    "meaning": "İzzet veren",
+    "description": "Dilediğini yücelten, değer veren."
+  },
+  {
+    "id": 25,
+    "name_ar": "ٱلْمُذِلّ",
+    "name_tr": "El-Müzill",
+    "meaning": "Zillete düşüren",
+    "description": "Dilediğini alçaltan; kudretiyle zelil eden."
+  },
+
+  {
+    "id": 26,
+    "name_ar": "ٱلسَّمِيع",
+    "name_tr": "Es-Semî‘",
+    "meaning": "Her şeyi işiten",
+    "description": "Kullarının her sözünü eksiksiz duyan."
+  },
+  {
+    "id": 27,
+    "name_ar": "ٱلْبَصِير",
+    "name_tr": "El-Basîr",
+    "meaning": "Her şeyi gören",
+    "description": "Her şeyi hakkıyla gören; hiçbir şey gizli kalmaz."
+  },
+
+  {
+    "id": 28,
+    "name_ar": "ٱلْحَكَم",
+    "name_tr": "El-Hakem",
+    "meaning": "Mutlak hakem",
+    "description": "En doğru hükmü veren."
+  },
+  {
+    "id": 29,
+    "name_ar": "ٱلْعَدْل",
+    "name_tr": "El-Adl",
+    "meaning": "Mutlak adil",
+    "description": "Kullarına adaletle muamele eden."
+  },
+
+  {
+    "id": 30,
+    "name_ar": "ٱللَّطِيف",
+    "name_tr": "El-Latîf",
+    "meaning": "Lütuf sahibi",
+    "description": "Kullarına ince ve gizli lütuflarda bulunan."
+  },
+  {
+    "id": 31,
+    "name_ar": "ٱلْخَبِير",
+    "name_tr": "El-Khabîr",
+    "meaning": "Her şeyden haberdar",
+    "description": "Gizliyi de açığı da bilen."
+  },
+
+  {
+    "id": 32,
+    "name_ar": "ٱلْحَلِيم",
+    "name_tr": "El-Halîm",
+    "meaning": "Yumuşak davranan",
+    "description": "Kullarının kusurlarına hemen ceza vermeyen."
+  },
+  {
+    "id": 33,
+    "name_ar": "ٱلْعَظِيم",
+    "name_tr": "El-Azîm",
+    "meaning": "Azamet sahibi",
+    "description": "Büyüklükte benzeri olmayan."
+  },
+  {
+    "id": 34,
+    "name_ar": "ٱلْغَفُور",
+    "name_tr": "El-Gafûr",
+    "meaning": "Gaffâr derecesinde bağışlayan",
+    "description": "Günahları örten, affı bol olan."
+  },
+  {
+    "id": 35,
+    "name_ar": "ٱلشَّكُور",
+    "name_tr": "Eş-Şekûr",
+    "meaning": "Şükrü çok kabul eden",
+    "description": "Az amele çok sevap veren."
+  },
+
+  {
+    "id": 36,
+    "name_ar": "ٱلْعَلِيّ",
+    "name_tr": "El-Aliyy",
+    "meaning": "Yüceler yücesi",
+    "description": "Şan ve şerefte en yüce olan."
+  },
+  {
+    "id": 37,
+    "name_ar": "ٱلْكَبِير",
+    "name_tr": "El-Kebîr",
+    "meaning": "En büyük",
+    "description": "Kibriyası büyük olan."
+  },
+
+  {
+    "id": 38,
+    "name_ar": "ٱلْحَفِيظ",
+    "name_tr": "El-Hafîz",
+    "meaning": "Koruyan",
+    "description": "Her şeyi muhafaza eden."
+  },
+  {
+    "id": 39,
+    "name_ar": "ٱلْمُقِيت",
+    "name_tr": "El-Mukît",
+    "meaning": "Kudretli, güçlü",
+    "description": "Her şeyin rızkını tayin eden."
+  },
+
+  {
+    "id": 40,
+    "name_ar": "ٱلْحَسِيب",
+    "name_tr": "El-Hasîb",
+    "meaning": "Hesap gören",
+    "description": "Her şeyin hesabını bilen."
+  },
+  {
+    "id": 41,
+    "name_ar": "ٱلْجَلِيل",
+    "name_tr": "El-Celîl",
+    "meaning": "Celâl sahibi",
+    "description": "Azamet ve ululuk sahibi."
+  },
+
+  {
+    "id": 42,
+    "name_ar": "ٱلْكَرِيم",
+    "name_tr": "El-Kerîm",
+    "meaning": "İkram sahibi",
+    "description": "Karşılıksız ikram eden."
+  },
+
+  {
+    "id": 43,
+    "name_ar": "ٱلرَّقِيب",
+    "name_tr": "Er-Rakîb",
+    "meaning": "Gözetleyen",
+    "description": "Her şeyi gözetip koruyan."
+  },
+  {
+    "id": 44,
+    "name_ar": "ٱلْمُجِيب",
+    "name_tr": "El-Mücîb",
+    "meaning": "Dualara cevap veren",
+    "description": "Kullarının dua ve isteklerini işiten ve icabet eden."
+  },
+  {
+    "id": 45,
+    "name_ar": "ٱلْوَاسِع",
+    "name_tr": "El-Vâsi‘",
+    "meaning": "Rahmeti geniş",
+    "description": "İhsanı, ilmi ve rahmeti sınırsız olan."
+  },
+
+  {
+    "id": 46,
+    "name_ar": "ٱلْحَكِيم",
+    "name_tr": "El-Hakîm",
+    "meaning": "Hikmetli",
+    "description": "Her işi yerli yerince yapan."
+  },
+  {
+    "id": 47,
+    "name_ar": "ٱلْوَدُود",
+    "name_tr": "El-Vedûd",
+    "meaning": "Sevgi sahibi",
+    "description": "Kullarını seven ve sevdiklerine muhabbet veren."
+  },
+  {
+    "id": 48,
+    "name_ar": "ٱلْمَجِيد",
+    "name_tr": "El-Mecîd",
+    "meaning": "Şanı yüce",
+    "description": "İkramı bol ve şanı büyük olan."
+  },
+  {
+    "id": 49,
+    "name_ar": "ٱلْبَاعِث",
+    "name_tr": "El-Bâis",
+    "meaning": "Dirilten",
+    "description": "Ölüleri dirilten ve yeniden hayat veren."
+  },
+  {
+    "id": 50,
+    "name_ar": "ٱلشَّهِيد",
+    "name_tr": "Eş-Şehîd",
+    "meaning": "Şahit olan",
+    "description": "Her şeyi gören ve bilen; kulların amellerine şahit olan."
+  },
+
+  {
+    "id": 51,
+    "name_ar": "ٱلْحَقّ",
+    "name_tr": "El-Hakk",
+    "meaning": "Gerçek olan",
+    "description": "Varlığı ve hükmü değişmeyen."
+  },
+  {
+    "id": 52,
+    "name_ar": "ٱلْوَكِيل",
+    "name_tr": "El-Vekîl",
+    "meaning": "Güvenilen vekil",
+    "description": "Kullarının işlerini en iyi şekilde idare eden."
+  },
+
+  {
+    "id": 53,
+    "name_ar": "ٱلْقَوِيّ",
+    "name_tr": "El-Kaviyy",
+    "meaning": "Kuvvet sahibi",
+    "description": "Her şeye gücü yeten."
+  },
+  {
+    "id": 54,
+    "name_ar": "ٱلْمَتِين",
+    "name_tr": "El-Metîn",
+    "meaning": "Sarsılmaz kudret sahibi",
+    "description": "Kudreti hiç eksilmeyen."
+  },
+
+  {
+    "id": 55,
+    "name_ar": "ٱلْوَلِيّ",
+    "name_tr": "El-Veliyy",
+    "meaning": "Dost ve yardımcı",
+    "description": "Müminlerin dostu ve yardımcısı."
+  },
+  {
+    "id": 56,
+    "name_ar": "ٱلْحَمِيد",
+    "name_tr": "El-Hamîd",
+    "meaning": "Övgüye layık",
+    "description": "Hamd ve senaya layık olan."
+  },
+
+  {
+    "id": 57,
+    "name_ar": "ٱلْمُحْصِي",
+    "name_tr": "El-Muhsî",
+    "meaning": "Sayarak bilen",
+    "description": "Her şeyi sayıp döken, hiçbir şey gizli kalmayan."
+  },
+  {
+    "id": 58,
+    "name_ar": "ٱلْمُبْدِئ",
+    "name_tr": "El-Mübdi",
+    "meaning": "Başlangıcı yaratan",
+    "description": "Her şeyi yoktan var edip başlatan."
+  },
+  {
+    "id": 59,
+    "name_ar": "ٱلْمُعِيد",
+    "name_tr": "El-Muîd",
+    "meaning": "İade eden",
+    "description": "Yaratmış olduklarını öldürdükten sonra yeniden dirilten."
+  },
+
+  {
+    "id": 60,
+    "name_ar": "ٱلْمُحْيِي",
+    "name_tr": "El-Muhyî",
+    "meaning": "Hayat veren",
+    "description": "Dilediğine hayat veren."
+  },
+  {
+    "id": 61,
+    "name_ar": "ٱلْمُمِيت",
+    "name_tr": "El-Mümît",
+    "meaning": "Öldüren",
+    "description": "Dilediğini öldüren; hayatın sonunu veren."
+  },
+  {
+    "id": 62,
+    "name_ar": "ٱلْحَيّ",
+    "name_tr": "El-Hayy",
+    "meaning": "Diri olan",
+    "description": "Ezeli ve ebedi hayat sahibi."
+  },
+  {
+    "id": 63,
+    "name_ar": "ٱلْقَيُّوم",
+    "name_tr": "El-Kayyûm",
+    "meaning": "Her şeyi ayakta tutan",
+    "description": "Kâinatın varlık sebebi ve idare edeni."
+  },
+
+  {
+    "id": 64,
+    "name_ar": "ٱلْوَاجِد",
+    "name_tr": "El-Vâcid",
+    "meaning": "Her istediğini bulan",
+    "description": "Hiçbir şeye muhtaç olmayan."
+  },
+  {
+    "id": 65,
+    "name_ar": "ٱلْمَاجِد",
+    "name_tr": "El-Mâcid",
+    "meaning": "Şanı büyük",
+    "description": "İhsanı bol ve keremi çok olan."
+  },
+
+  {
+    "id": 66,
+    "name_ar": "ٱلْوَاحِد",
+    "name_tr": "El-Vâhid",
+    "meaning": "Tek olan",
+    "description": "Zatında, sıfatlarında ve fiillerinde tektir."
+  },
+  {
+    "id": 67,
+    "name_ar": "ٱلْأَحَد",
+    "name_tr": "Es-Samed",
+    "meaning": "Her şey kendisine muhtaç",
+    "description": "Bütün varlıkların yöneldiği tek merci."
+  },
+
+  {
+    "id": 68,
+    "name_ar": "ٱلصَّمَد",
+    "name_tr": "Es-Samed",
+    "meaning": "Hiçbir şeye muhtaç olmayan",
+    "description": "Her şeyin kendisine muhtaç olduğu."
+  },
+
+  {
+    "id": 69,
+    "name_ar": "ٱلْقَادِر",
+    "name_tr": "El-Kâdir",
+    "meaning": "Gücü yeten",
+    "description": "Her şeye gücü yeten; kudret sahibi."
+  },
+  {
+    "id": 70,
+    "name_ar": "ٱلْمُقْتَدِر",
+    "name_tr": "El-Muktedir",
+    "meaning": "Kudreti tam olan",
+    "description": "Mutlak güç sahibi."
+  },
+
+  {
+    "id": 71,
+    "name_ar": "ٱلْمُقَدِّم",
+    "name_tr": "El-Mukaddim",
+    "meaning": "Öne geçiren",
+    "description": "Dilediğini öne geçiren."
+  },
+  {
+    "id": 72,
+    "name_ar": "ٱلْمُؤَخِّر",
+    "name_tr": "El-Muahhir",
+    "meaning": "Geri bırakan",
+    "description": "Dilediğini geri bırakan."
+  },
+
+  {
+    "id": 73,
+    "name_ar": "ٱلْأَوَّل",
+    "name_tr": "El-Evvel",
+    "meaning": "İlk",
+    "description": "Varlığı ezeli olandır."
+  },
+  {
+    "id": 74,
+    "name_ar": "ٱلْآخِر",
+    "name_tr": "El-Âhir",
+    "meaning": "Son",
+    "description": "Varlığı ebedi olandır."
+  },
+
+  {
+    "id": 75,
+    "name_ar": "ٱلظَّاهِر",
+    "name_tr": "Ez-Zâhir",
+    "meaning": "Aşikâr",
+    "description": "Varlığı açık olan."
+  },
+  {
+    "id": 76,
+    "name_ar": "ٱلْبَاطِن",
+    "name_tr": "El-Bâtın",
+    "meaning": "Gizli olan",
+    "description": "Gizlilikte dahi bilinendir."
+  },
+
+  {
+    "id": 77,
+    "name_ar": "ٱلْوَالِي",
+    "name_tr": "El-Vâlî",
+    "meaning": "Her işin yöneticisi",
+    "description": "Her şeyin idaresini elinde bulunduran."
+  },
+  {
+    "id": 78,
+    "name_ar": "ٱلْمُتَعَالِي",
+    "name_tr": "El-Müteâlî",
+    "meaning": "Yüceler yücesi",
+    "description": "Her şeyden üstün olan."
+  },
+
+  {
+    "id": 79,
+    "name_ar": "ٱلْبَرّ",
+    "name_tr": "El-Berr",
+    "meaning": "İyilik eden",
+    "description": "Kullarına iyilik ve lütuflarda bulunan."
+  },
+  {
+    "id": 80,
+    "name_ar": "ٱلتَّوَّاب",
+    "name_tr": "Et-Tevvâb",
+    "meaning": "Tövbeleri kabul eden",
+    "description": "Kullarının tövbelerini çokça kabul eden."
+  },
+  {
+    "id": 81,
+    "name_ar": "ٱلْمُنْتَقِم",
+    "name_tr": "El-Müntakim",
+    "meaning": "Adaletle intikam alan",
+    "description": "Zalimleri cezalandıran."
+  },
+
+  {
+    "id": 82,
+    "name_ar": "ٱلْعَفُوّ",
+    "name_tr": "El-Afuvv",
+    "meaning": "Affı bol olan",
+    "description": "Günahları silip yok eden."
+  },
+  {
+    "id": 83,
+    "name_ar": "ٱلرَّؤُوف",
+    "name_tr": "Er-Raûf",
+    "meaning": "Pek şefkatli",
+    "description": "Kullarına çok merhamet eden."
+  },
+
+  {
+    "id": 84,
+    "name_ar": "مَالِكُ ٱلْمُلْك",
+    "name_tr": "Mâlikü’l-Mülk",
+    "meaning": "Mülkün sahibi",
+    "description": "Mülkün yönetimi elinde olan."
+  },
+  {
+    "id": 85,
+    "name_ar": "ذُو ٱلْجَلَالِ وَٱلْإِكْرَام",
+    "name_tr": "Zü’l-Celâl-i ve’l-İkrâm",
+    "meaning": "Celal ve ikram sahibi",
+    "description": "Azamet ve ikramı sınırsız olan."
+  },
+  {
+    "id": 86,
+    "name_ar": "ٱلْمُقْسِط",
+    "name_tr": "El-Muksit",
+    "meaning": "Adaletli olan",
+    "description": "Kullarına eşit ve adil davranan."
+  },
+
+  {
+    "id": 87,
+    "name_ar": "ٱلْجَامِع",
+    "name_tr": "El-Câmi‘",
+    "meaning": "Toplayan",
+    "description": "Kıyamet günü her şeyi bir araya toplayan."
+  },
+  {
+    "id": 88,
+    "name_ar": "ٱلْغَنِيّ",
+    "name_tr": "El-Ganî",
+    "meaning": "Zengin olan",
+    "description": "Hiçbir şeye muhtaç olmayan."
+  },
+  {
+    "id": 89,
+    "name_ar": "ٱلْمُغْنِي",
+    "name_tr": "El-Muğnî",
+    "meaning": "Zengin eden",
+    "description": "Kullarını dilediği gibi zengin eden."
+  },
+
+  {
+    "id": 90,
+    "name_ar": "ٱلْمَانِع",
+    "name_tr": "El-Mâni‘",
+    "meaning": "Engelleyen",
+    "description": "Dilediğine zarar gelmesini engelleyen."
+  },
+  {
+    "id": 91,
+    "name_ar": "ٱلضَّارّ",
+    "name_tr": "Ed-Dârr",
+    "meaning": "Zarar veren",
+    "description": "Dilediğine zarar veren."
+  },
+  {
+    "id": 92,
+    "name_ar": "ٱلنَّافِع",
+    "name_tr": "En-Nâfi‘",
+    "meaning": "Fayda veren",
+    "description": "Kullarına fayda veren."
+  },
+
+  {
+    "id": 93,
+    "name_ar": "ٱلنُّور",
+    "name_tr": "En-Nûr",
+    "meaning": "Nurlandıran",
+    "description": "Her şeyi aydınlatan ve yol gösteren."
+  },
+  {
+    "id": 94,
+    "name_ar": "ٱلْهَادِي",
+    "name_tr": "El-Hâdî",
+    "meaning": "Hidayet veren",
+    "description": "Kullarını doğru yola ileten."
+  },
+
+  {
+    "id": 95,
+    "name_ar": "ٱلْبَدِيع",
+    "name_tr": "El-Bedî‘",
+    "meaning": "Eşi benzeri olmayan",
+    "description": "Örneksiz yaratan."
+  },
+  {
+    "id": 96,
+    "name_ar": "ٱلْبَاقِي",
+    "name_tr": "El-Bâkî",
+    "meaning": "Varlığı sonsuz",
+    "description": "Varlığı hiç bitmeyen."
+  },
+  {
+    "id": 97,
+    "name_ar": "ٱلْوَارِث",
+    "name_tr": "El-Vâris",
+    "meaning": "Mirasın sahibi",
+    "description": "Her şeyin sonunda baki kalan tek varis."
+  },
+
+  {
+    "id": 98,
+    "name_ar": "ٱلرَّشِيد",
+    "name_tr": "Er-Reşîd",
+    "meaning": "Doğru yolu gösteren",
+    "description": "Her işi en doğru şekilde yapan."
+  },
+  {
+    "id": 99,
+    "name_ar": "ٱلصَّبُور",
+    "name_tr": "Es-Sabûr",
+    "meaning": "Çok sabırlı",
+    "description": "Kullarının kusurlarına hemen ceza vermeyen."
+  }
+]
