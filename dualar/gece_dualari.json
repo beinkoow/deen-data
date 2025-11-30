@@ -1,0 +1,30 @@
+{
+  "title": "Gece Duaları",
+  "description": "Uyumadan önce okunması tavsiye edilen gece duaları ve zikirleri.",
+  "items": [
+    {
+      "id": 1,
+      "name": "Yatma Duası",
+      "arabic": "بِاسْمِكَ اللّٰهُمَّ اَمُوْتُ وَاَحْيَا",
+      "latin": "Bismikellâhümme emûtu ve ahyâ.",
+      "meaning": "Allah’ım, senin isminle ölür ve dirilirim.",
+      "repeat": 1
+    },
+    {
+      "id": 2,
+      "name": "Yatarken Teslimiyet Duası",
+      "arabic": "اَللّٰهُمَّ اَسْلَمْتُ نَفْسِي اِلَيْكَ...",
+      "latin": "Allahümme eslemtü nefsî ileyk...",
+      "meaning": "Allah'ım, nefsimi sana teslim ettim, işlerimi sana havale ettim.",
+      "repeat": 1
+    },
+    {
+      "id": 3,
+      "name": "Üç Kul Suresi",
+      "arabic": "قُلْ هُوَ اللّٰهُ اَحَدٌ – قُلْ اَعُوذُ بِرَبِّ الْفَلَقِ – قُلْ اَعُوذُ بِرَبِّ النَّاسِ",
+      "latin": "İhlâs, Felak ve Nâs sûreleri okunur.",
+      "meaning": "Peygamberimizin gece yatarken okuduğu üç koruyucu sure.",
+      "repeat": 1
+    }
+  ]
+}
