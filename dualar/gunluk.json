@@ -1,0 +1,126 @@
+{
+  "title": "Günlük Dualar & Zikirler",
+  "description": "Gün içinde her an okunabilecek kısa, etkili ve sahih dualar ile zikirler.",
+  "items": [
+    {
+      "id": 1,
+      "name": "Besmele",
+      "arabic": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيمِ",
+      "latin": "Bismillâhirrahmânirrahîm.",
+      "meaning": "Rahman ve Rahim olan Allah’ın adıyla.",
+      "repeat": 1
+    },
+    {
+      "id": 2,
+      "name": "Salavat",
+      "arabic": "اَللّٰهُمَّ صَلِّ عَلٰى سَيِّدِنَا مُحَمَّدٍ",
+      "latin": "Allahümme salli alâ seyyidinâ Muhammed.",
+      "meaning": "Allah’ım, Efendimiz Muhammed’e salât eyle.",
+      "repeat": 10
+    },
+    {
+      "id": 3,
+      "name": "Subhanallah",
+      "arabic": "سُبْحَانَ اللّٰهِ",
+      "latin": "Sübhânallah.",
+      "meaning": "Allah noksan sıfatlardan münezzehtir.",
+      "repeat": 33
+    },
+    {
+      "id": 4,
+      "name": "Elhamdülillah",
+      "arabic": "اَلْحَمْدُ لِلّٰهِ",
+      "latin": "Elhamdülillah.",
+      "meaning": "Hamd Allah’a mahsustur.",
+      "repeat": 33
+    },
+    {
+      "id": 5,
+      "name": "Allahu Ekber",
+      "arabic": "اَللّٰهُ اَكْبَرُ",
+      "latin": "Allahu Ekber.",
+      "meaning": "Allah en büyüktür.",
+      "repeat": 33
+    },
+    {
+      "id": 6,
+      "name": "Tevhid",
+      "arabic": "لَا إِلٰهَ إِلَّا اللّٰهُ",
+      "latin": "Lâ ilâhe illallah.",
+      "meaning": "Allah’tan başka ilah yoktur.",
+      "repeat": 100
+    },
+    {
+      "id": 7,
+      "name": "Kısa Korunma Duası",
+      "arabic": "اَللّٰهُمَّ اكْفِنِي بِحَلَالِكَ عَنْ حَرَامِكَ",
+      "latin": "Allahümme’kfinî bi-halâlike an harâmik.",
+      "meaning": "Allah’ım! Helalinle beni haramdan koru.",
+      "repeat": 1
+    },
+    {
+      "id": 8,
+      "name": "Kolaylık Duası",
+      "arabic": "اَللّٰهُمَّ لَا سَهْلَ إِلَّا مَا جَعَلْتَهُ سَهْلًا",
+      "latin": "Allahümme lâ sehle illâ mâ cealtehû sehlâ.",
+      "meaning": "Allah’ım! Sen kolay kılmadıkça hiçbir şey kolay değildir.",
+      "repeat": 1
+    },
+    {
+      "id": 9,
+      "name": "Hüzün ve Sıkıntı Duası",
+      "arabic": "يَا حَيُّ يَا قَيُّومُ بِرَحْمَتِكَ أَسْتَغِيثُ",
+      "latin": "Yâ Hayyu Yâ Kayyûm, bi-rahmetike esteğîs.",
+      "meaning": "Ey diri olan, her şeyi ayakta tutan Allah! Rahmetinle yardım dilerim.",
+      "repeat": 3
+    },
+    {
+      "id": 10,
+      "name": "Gün Boyu Korunma",
+      "arabic": "حَسْبِىَ اللّٰهُ لَاۤ اِلٰهَ اِلَّا هُوَ",
+      "latin": "Hasbiyallâhu lâ ilâhe illâ hû.",
+      "meaning": "Allah bana yeter; O’ndan başka ilah yoktur.",
+      "repeat": 7
+    },
+    {
+      "id": 11,
+      "name": "Korku Anında Dua",
+      "arabic": "لَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللّٰهِ",
+      "latin": "Lâ havle velâ kuvvete illâ billâh.",
+      "meaning": "Güç ve kuvvet yalnız Allah’tandır.",
+      "repeat": 10
+    },
+    {
+      "id": 12,
+      "name": "Minnet ve Şükür",
+      "arabic": "اَلْحَمْدُ لِلّٰهِ عَلٰى كُلِّ حَالٍ",
+      "latin": "Elhamdülillâhi alâ kulli hâl.",
+      "meaning": "Her hâlükârda hamd Allah’a mahsustur.",
+      "repeat": 1
+    },
+    {
+      "id": 13,
+      "name": "Rızık Duası",
+      "arabic": "اَللّٰهُمَّ ارْزُقْنِي مِنْ حَيْثُ لَا أَحْتَسِبُ",
+      "latin": "Allahümmerzuknî min haythu lâ ahtesib.",
+      "meaning": "Allah’ım, ummadığım yerden bana rızık ver.",
+      "repeat": 1
+    },
+    {
+      "id": 14,
+      "name": "Hastalık ve Şifa",
+      "arabic": "اَللّٰهُمَّ اشْفِ مَرْضَانَا",
+      "latin": "Allahümme’şfi merdânâ.",
+      "meaning": "Allah’ım hastalarımıza şifa ver.",
+      "repeat": 1
+    },
+    {
+      "id": 15,
+      "name": "Nazar ve Kötülüklerden Korunma",
+      "arabic": "تَبَارَكَ اللّٰهُ أَحْسَنُ الْخَالِق۪ينَ",
+      "latin": "Tebârakallâhu ahsenul hâlikîn.",
+      "meaning": "Yaratanların en güzeli olan Allah mübarektir.",
+      "repeat": 1
+    }
+  ]
+}
