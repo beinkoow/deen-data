@@ -1,0 +1,78 @@
+{
+  "title": "Bereket Ayetleri",
+  "description": "Rızıkta genişlik, evde huzur, kazançta bereket ve işlerde kolaylık için okunabilecek Kur’an ayetleri.",
+  "items": [
+    {
+      "id": 1,
+      "surah": "A’râf 96",
+      "arabic": "وَلَوْ أَنَّ أَهْلَ الْقُرَىٰ آمَنُوا وَاتَّقَوْا لَفَتَحْنَا عَلَيْهِمْ بَرَكَاتٍ مِنَ السَّمَاءِ وَالْأَرْضِ",
+      "latin": "Ve lev enne ehle’l-kurâ âmenû vettekav lefetehnâ aleyhim berakâtin mine’s-semâi ve’l-ard",
+      "meaning": "Eğer o ülkelerin halkı iman edip sakınsaydı, onların üzerine gökten ve yerden bereketler açardık.",
+      "note": "Bereket kapılarının açılmasının en temel şartının iman ve takva olduğunu vurgular."
+    },
+    {
+      "id": 2,
+      "surah": "Talâk 2-3",
+      "arabic": "وَمَنْ يَتَّقِ اللَّهَ يَجْعَلْ لَهُ مَخْرَجًا • وَيَرْزُقْهُ مِنْ حَيْثُ لَا يَحْتَسِبُ",
+      "latin": "Ve men yettekillâhe yec'al lehû mehracâ • Ve yerzukhu min haysu lâ yehtesib",
+      "meaning": "Kim Allah’tan sakınırsa, Allah ona bir çıkış yolu verir. Onu hiç ummadığı yerden rızıklandırır.",
+      "note": "Bereket, genişlik, beklenmedik rızık ve kolaylık için en güçlü ayetlerden biri."
+    },
+    {
+      "id": 3,
+      "surah": "Talâk 7",
+      "arabic": "سَيَجْعَلُ اللَّهُ بَعْدَ عُسْرٍ يُسْرًا",
+      "latin": "Seyec'alullâhu ba'de usrin yusrâ",
+      "meaning": "Allah, zorluktan sonra bir kolaylık yaratacaktır.",
+      "note": "Helal kazançta sıkışanlar, zorlu süreçten geçenler için bereket ve kolaylık vaat eder."
+    },
+    {
+      "id": 4,
+      "surah": "Zâriyât 22",
+      "arabic": "وَفِي السَّمَاءِ رِزْقُكُمْ وَمَا تُوعَدُونَ",
+      "latin": "Ve fissemâi rizkuküm ve mâ tû'adûn",
+      "meaning": "Rızkınız ve size vaadedilen şeyler göktedir.",
+      "note": "Gerçek rızık vericinin Allah olduğunu hatırlatır; rızık endişesini hafifletir."
+    },
+    {
+      "id": 5,
+      "surah": "Bakara 261",
+      "arabic": "مَثَلُ الَّذِينَ يُنفِقُونَ أَمْوَالَهُمْ فِي سَبِيلِ اللَّهِ ... سَبْعَ مِائَةِ ضِعْفٍ",
+      "latin": "Meselüllezîne yunfikûne emvâlehum fî sebîlillâh ... seb'a mi'eti da'f",
+      "meaning": "Allah, kendi yolunda harcayanların karşılığını yedi yüz kat artırır.",
+      "note": "Sadaka, infak ve paylaşımın bereketi katladığını anlatır."
+    },
+    {
+      "id": 6,
+      "surah": "Nûr 38",
+      "arabic": "لِيَجْزِيَهُمُ اللَّهُ أَحْسَنَ مَا عَمِلُوا وَيَزِيدَهُمْ مِن فَضْلِهِ",
+      "latin": "Liyeczıyahumullâhu ahsene mâ amilû ve yezîdehum min fadlih",
+      "meaning": "Allah, yaptıklarının en güzeliyle onları ödüllendirir ve fazlasını da bağışından artırır.",
+      "note": "Allah'ın lütfundan artış ve bereket isteyenler için idealdir."
+    },
+    {
+      "id": 7,
+      "surah": "Nahl 97",
+      "arabic": "فَلَنُحْيِيَنَّهُ حَيَاةً طَيِّبَةً",
+      "latin": "Felenuhyiyennehû hayâten tayyibeh",
+      "meaning": "Biz, iman edip salih amel işleyene mutlaka güzel bir hayat yaşatırız.",
+      "note": "Helal kazanç, huzurlu ev, bereketli ömür için en etkili ayetlerden."
+    },
+    {
+      "id": 8,
+      "surah": "Âl-i İmrân 37",
+      "arabic": "كُلَّمَا دَخَلَ عَلَيْهَا زَكَرِيَّا ٱلْمِحْرَابَ وَجَدَ عِندَهَا رِزْقًا",
+      "latin": "Külle mâ dehale aleyhâ Zekeriyyâ’l-mihrâb ve cede indehâ rizqâ",
+      "meaning": "Zekeriya, onun yanında rızık bulurdu.",
+      "note": "Beklenmedik ve sürekli gelen bereketi temsil eder."
+    },
+    {
+      "id": 9,
+      "surah": "Muhammed 7",
+      "arabic": "إِن تَنصُرُوا اللَّهَ يَنصُرْكُمْ وَيُثَبِّتْ أَقْدَامَكُمْ",
+      "latin": "İn tansurûllâhe yansurkum ve yüsebbid akdâmekum",
+      "meaning": "Siz Allah’ın dinine yardım ederseniz, O da size yardım eder ve ayaklarınızı sağlamlaştırır.",
+      "note": "İşlerinde yardım ve bereket isteyenler için çok güçlü bir ayet."
+    }
+  ]
+}
