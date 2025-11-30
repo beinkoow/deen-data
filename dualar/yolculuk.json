@@ -1,0 +1,30 @@
+{
+  "title": "Yolculuk Duaları",
+  "description": "Yola çıkarken ve yolculuk esnasında okunması sünnet olan dualar.",
+  "items": [
+    {
+      "id": 1,
+      "name": "Yola Çıkma Duası",
+      "arabic": "سُبْحَانَ الَّذِي سَخَّرَ لَنَا هٰذَا...",
+      "latin": "Sübhânellezî sehhare lenâ hâzâ...",
+      "meaning": "Bize bu vasıtayı hizmetkâr kılan Allah’a hamd olsun.",
+      "repeat": 1
+    },
+    {
+      "id": 2,
+      "name": "Yol Güvenliği Duası",
+      "arabic": "اَللّٰهُمَّ اِنَّا نَسْأَلُكَ فِي سَفَرِنَا هٰذَا الْبِرَّ...",
+      "latin": "Allahümme innâ nes’elüke fî seferinâ hâzâl birra...",
+      "meaning": "Bu yolculukta iyilik ve güvenlik dileriz.",
+      "repeat": 1
+    },
+    {
+      "id": 3,
+      "name": "Eve Dönüş Duası",
+      "arabic": "اٰئِبُونَ تَائِبُونَ عَابِدُونَ لِرَبِّنَا حَامِدُونَ",
+      "latin": "Âibûn, tâibûn, âbidûn, li rabbina hâmidûn.",
+      "meaning": "Dönenler, tövbe edenler, Rabbine hamd eden kullar olarak döndük.",
+      "repeat": 1
+    }
+  ]
+}
