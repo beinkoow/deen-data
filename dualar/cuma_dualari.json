@@ -1,0 +1,30 @@
+{
+  "title": "Cuma Duaları",
+  "description": "Cuma günü okunması tavsiye edilen faziletli dualar.",
+  "items": [
+    {
+      "id": 1,
+      "name": "Salavat",
+      "arabic": "اَللّٰهُمَّ صَلِّ عَلٰى مُحَمَّدٍ وَعَلٰى اٰلِ مُحَمَّدٍ",
+      "latin": "Allahümme salli alâ Muhammedin ve alâ âli Muhammed.",
+      "meaning": "Peygambere salât ve selâm duası.",
+      "repeat": 10
+    },
+    {
+      "id": 2,
+      "name": "Cuma Zikri",
+      "arabic": "أَسْتَغْفِرُ اللّٰهَ",
+      "latin": "Estağfirullah.",
+      "meaning": "Allah’tan af dileme zikri.",
+      "repeat": 100
+    },
+    {
+      "id": 3,
+      "name": "Cuma Duası",
+      "arabic": "اَللّٰهُمَّ اجْعَلْنَا مِنْ اَهْلِ الْجَنَّةِ",
+      "latin": "Allahümme’c’alnâ min ehlil cenne.",
+      "meaning": "Allah’ım bizi cennet ehlinden eyle.",
+      "repeat": 1
+    }
+  ]
+}
