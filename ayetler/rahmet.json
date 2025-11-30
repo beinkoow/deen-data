@@ -1,0 +1,70 @@
+{
+  "title": "Rahmet Ayetleri",
+  "description": "Allah’ın affı, merhameti, bağışlaması ve kullarına olan rahmeti ile ilgili ayetler.",
+  "items": [
+    {
+      "id": 1,
+      "surah": "Zümer 53",
+      "arabic": "قُلْ يَا عِبَادِيَ الَّذِينَ أَسْرَفُوا عَلَىٰ أَنْفُسِهِمْ لَا تَقْنَطُوا مِنْ رَحْمَةِ اللَّهِ...",
+      "latin": "Kul yâ ibâdiyellezîne esrafû alâ enfusihim lâ teknetû min rahmetillâh...",
+      "meaning": "De ki: Ey kendilerine zulmeden kullarım! Allah’ın rahmetinden ümidinizi kesmeyin. Allah bütün günahları bağışlar. Çünkü O, çok bağışlayan, çok merhamet edendir.",
+      "note": "Kur’an’daki en büyük umut ayetlerinden biri"
+    },
+    {
+      "id": 2,
+      "surah": "A'raf 156",
+      "arabic": "وَرَحْمَتِي وَسِعَتْ كُلَّ شَيْءٍ",
+      "latin": "Ve rahmetî vesiat külle şey’",
+      "meaning": "Rahmetim her şeyi kuşatmıştır.",
+      "note": "Allah’ın merhametinin sınırsız olduğunu bildiren ayet"
+    },
+    {
+      "id": 3,
+      "surah": "Enbiya 107",
+      "arabic": "وَمَا أَرْسَلْنَاكَ إِلَّا رَحْمَةً لِلْعَالَمِينَ",
+      "latin": "Ve mâ erselnâke illâ rahmeten li’l-âlemîn",
+      "meaning": "Biz seni alemlere ancak rahmet olarak gönderdik.",
+      "note": "Peygamber Efendimiz’in (sav) rahmet oluşunu açıklayan ayet"
+    },
+    {
+      "id": 4,
+      "surah": "Nisa 64",
+      "arabic": "وَلَوْ أَنَّهُمْ إِذْ ظَلَمُوا أَنْفُسَهُمْ جَاءُوكَ فَاسْتَغْفَرُوا اللَّهَ...",
+      "latin": "Ve lev ennehum iz zalemû enfusehum câûke festagferûllâh...",
+      "meaning": "Eğer onlar kendilerine zulmettiklerinde sana gelip Allah’tan bağışlanma dileselerdi, Allah’ı çok bağışlayıcı ve merhamet edici bulurlardı.",
+      "note": "Tevbe ve bağışlanma kapısının açık olduğunu anlatır"
+    },
+    {
+      "id": 5,
+      "surah": "Hicr 49-50",
+      "arabic": "نَبِّئْ عِبَادِي أَنِّي أَنَا الْغَفُورُ الرَّحِيمُ * وَأَنَّ عَذَابِي هُوَ الْعَذَابُ الْأَلِيمُ",
+      "latin": "Nebbi’ ibâdî enni enel gafûrur rahîm * Ve enne azâbî huvel azâbul elîm",
+      "meaning": "Kullarıma haber ver ki Ben çok bağışlayan, çok merhamet edenim. Ama azabım da gerçekten elem verici bir azaptır.",
+      "note": "Rahmet ve uyarı dengesi"
+    },
+    {
+      "id": 6,
+      "surah": "Bakara 286",
+      "arabic": "لَا يُكَلِّفُ اللَّهُ نَفْسًا إِلَّا وُسْعَهَا...",
+      "latin": "Lâ yukellifullâhu nefsen illâ vus’ahâ...",
+      "meaning": "Allah hiç kimseye gücünün yettiğinden fazlasını yüklemez.",
+      "note": "Allah’ın kullarını rahmetle gözettiğini vurgular"
+    },
+    {
+      "id": 7,
+      "surah": "Tevbe 51",
+      "arabic": "قُلْ لَنْ يُصِيبَنَا إِلَّا مَا كَتَبَ اللَّهُ لَنَا...",
+      "latin": "Kul len yusîbenâ illâ mâ keteballâhu lenâ...",
+      "meaning": "De ki: Bize ancak Allah’ın bizim için yazdığı şey isabet eder. O bizim Mevlamızdır.",
+      "note": "Teslimiyet, güven ve rahmet ayeti"
+    },
+    {
+      "id": 8,
+      "surah": "Hud 90",
+      "arabic": "إِنَّ رَبِّي رَحِيمٌ وَدُودٌ",
+      "latin": "İnne rabbî rahîmun vedûd",
+      "meaning": "Şüphesiz Rabbim çok merhametlidir, çok sevicidir.",
+      "note": "Allah’ın merhameti ve sevgisini anlatan en güzel ifadelerden biri"
+    }
+  ]
+}
