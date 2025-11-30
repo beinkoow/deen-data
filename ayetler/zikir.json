@@ -1,0 +1,86 @@
+{
+  "title": "Zikir Ayetleri",
+  "description": "Allah’ı anmanın fazileti, gafletten sakınma ve zikir ile huzura kavuşmayı anlatan Kur’an ayetleri.",
+  "items": [
+    {
+      "id": 1,
+      "surah": "Ra'd 28",
+      "arabic": "أَلَا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ",
+      "latin": "Elâ bi zikrillâhi tatmainnul kulûb",
+      "meaning": "Dikkat edin! Kalpler ancak Allah’ı zikretmekle huzur bulur.",
+      "note": "Zikir kalbin huzur kaynağı olarak belirtilir."
+    },
+    {
+      "id": 2,
+      "surah": "Ahzab 41",
+      "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا اذْكُرُوا اللَّهَ ذِكْرًا كَثِيرًا",
+      "latin": "Yâ eyyuhellezîne âmenû uzkurûllâhe zikran kesîrâ",
+      "meaning": "Ey iman edenler! Allah’ı çokça zikredin.",
+      "note": "Zikrin ‘çokça’ yapılması emredilir."
+    },
+    {
+      "id": 3,
+      "surah": "Ahzab 35",
+      "arabic": "وَالذَّاكِرِينَ اللَّهَ كَثِيرًا وَالذَّاكِرَاتِ",
+      "latin": "Vezzâkirînallâhe kesîren vezzâkirât",
+      "meaning": "Allah’ı çokça zikreden erkekler ve kadınlar...",
+      "note": "Zikir ehli övgüyle anılır."
+    },
+    {
+      "id": 4,
+      "surah": "Nur 37",
+      "arabic": "رِجَالٌ لَا تُلْهِيهِمْ تِجَارَةٌ وَلَا بَيْعٌ عَن ذِكْرِ اللَّهِ",
+      "latin": "Ricâlun lâ tulhîhim ticâretun ve lâ bey‘un an zikrillâh",
+      "meaning": "Öyle adamlar vardır ki ticaret ve alışveriş onları Allah’ı zikretmekten alıkoymaz.",
+      "note": "Zikrini hiçbir şeyin engellemediği kullar över."
+    },
+    {
+      "id": 5,
+      "surah": "Kehf 28",
+      "arabic": "وَلَا تُطِعْ مَنْ أَغْفَلْنَا قَلْبَهُ عَن ذِكْرِنَا",
+      "latin": "Ve lâ tuti‘ men ağfelna kalbehû an zikrinâ",
+      "meaning": "Kalbini zikrimizden gafil kıldığımız kimseye itaat etme.",
+      "note": "Zikirden uzak olanların peşinden gitmemeyi öğütler."
+    },
+    {
+      "id": 6,
+      "surah": "Taha 14",
+      "arabic": "فَاعْبُدْنِي وَأَقِمِ الصَّلَاةَ لِذِكْرِي",
+      "latin": "Fe‘budnî ve eqimis-salâte lizikrî",
+      "meaning": "O halde bana kulluk et ve beni anmak için namazı dosdoğru kıl.",
+      "note": "Namazın zikir amacı vurgulanır."
+    },
+    {
+      "id": 7,
+      "surah": "A’raf 205",
+      "arabic": "وَاذْكُر رَّبَّكَ فِي نَفْسِكَ ... وَلَا تَكُن مِّنَ الْغَافِلِينَ",
+      "latin": "Vezkur rabbeke fî nefsike ... ve lâ tekun minel gâfilîn",
+      "meaning": "Rabbini içinden, yalvararak ve korkarak an; gafillerden olma.",
+      "note": "Zikir kalben ve derinden yapılmalıdır."
+    },
+    {
+      "id": 8,
+      "surah": "Juma 10",
+      "arabic": "وَاذْكُرُوا اللَّهَ كَثِيرًا لَعَلَّكُمْ تُفْلِحُونَ",
+      "latin": "Vezkurûllâhe kesîran leallekum tuflihûn",
+      "meaning": "Allah’ı çokça zikredin ki kurtuluşa eresiniz.",
+      "note": "Zikir kurtuluşa götüren bir amel olarak geçer."
+    },
+    {
+      "id": 9,
+      "surah": "Enfal 2",
+      "arabic": "إِنَّمَا الْمُؤْمِنُونَ الَّذِينَ إِذَا ذُكِرَ اللَّهُ وَجِلَتْ قُلُوبُهُمْ",
+      "latin": "İnnemel mu’minûnellezîne izâ zukirallâhu vecilet kulûbuhum",
+      "meaning": "Müminler ancak o kimselerdir ki Allah anıldığında kalpleri ürperir.",
+      "note": "Zikir müminlerin en belirgin özelliğidir."
+    },
+    {
+      "id": 10,
+      "surah": "Al-i İmran 191",
+      "arabic": "الَّذِينَ يَذْكُرُونَ اللَّهَ قِيَامًا وَقُعُودًا وَعَلَىٰ جُنُوبِهِمْ",
+      "latin": "Ellezîne yezkurûnallâhe qiyâmen ve qu‘ûden ve alâ cunûbihim",
+      "meaning": "Onlar ayakta, otururken ve yanları üzerine yatarken Allah’ı zikrederler.",
+      "note": "Zikir her hâlde ve her an yapılabilir."
+    }
+  ]
+}
