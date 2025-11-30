@@ -1,0 +1,94 @@
+{
+  "title": "Tesbihat",
+  "description": "Namazdan sonra okunan tesbihler, zikirler ve faziletli dualar.",
+  "items": [
+    {
+      "id": 1,
+      "name": "33 Sübhanallah – 33 Elhamdülillah – 34 Allahu Ekber",
+      "arabic": "سُبْحَانَ اللّٰهِ ٣٣\nاَلْحَمْدُ لِلّٰهِ ٣٣\nاَللّٰهُ اَكْبَرُ ٣٤",
+      "latin": "Sübhanallah (33), Elhamdülillah (33), Allahu Ekber (34).",
+      "meaning": "Allah'ı eksiklikten tenzih ederim. Hamd Allah’a mahsustur. Allah en büyüktür.",
+      "source": "Buhari, Deavât 64"
+    },
+    {
+      "id": 2,
+      "name": "Ayet-el Kürsi",
+      "arabic": "اللّٰهُ لَا إِلٰهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ...",
+      "latin": "Allahu lâ ilâhe illâ hüve’l-hayyü’l-kayyûm...",
+      "meaning": "Allah’tan başka ilah yoktur; O diri ve kayyumdur...",
+      "source": "Bakara 255"
+    },
+    {
+      "id": 3,
+      "name": "Âmennerrasûlü (Bakara 285-286)",
+      "arabic": "آمَنَ الرَّسُولُ بِمَا أُنْزِلَ إِلَيْهِ...",
+      "latin": "Âmenerrasûlü bimâ unzile ileyhi...",
+      "meaning": "Peygamber, Rabbinden kendisine indirilene iman etti...",
+      "source": "Bakara 285-286"
+    },
+    {
+      "id": 4,
+      "name": "Sübhaneke",
+      "arabic": "سُبْحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ...",
+      "latin": "Sübhaneke Allahümme ve bi hamdik...",
+      "meaning": "Allah'ım! Seni hamdinle tesbih ederim...",
+      "source": "Namaz Tesbihatı"
+    },
+    {
+      "id": 5,
+      "name": "Ettehiyyatü",
+      "arabic": "التَّحِيَّاتُ لِلّٰهِ وَالصَّلَوٰاتُ...",
+      "latin": "Ettehiyyâtü lillâhi vessalavâtü vettayyibât...",
+      "meaning": "Selam, rahmet ve bereket üzerimize olsun...",
+      "source": "Namaz Tahiyyatı"
+    },
+    {
+      "id": 6,
+      "name": "Salli – Barik (Salavatlar)",
+      "arabic": "اللّٰهُمَّ صَلِّ عَلٰى مُحَمَّدٍ...",
+      "latin": "Allahümme salli alâ Muhammed...",
+      "meaning": "Allah’ım! Muhammed’e rahmet eyle...",
+      "source": "Buhari, Enbiya 10"
+    },
+    {
+      "id": 7,
+      "name": "Kelime-i Tevhid",
+      "arabic": "لَا إِلٰهَ إِلَّا اللّٰهُ",
+      "latin": "La ilâhe illallah.",
+      "meaning": "Allah’tan başka ilah yoktur.",
+      "source": "Tevhid"
+    },
+    {
+      "id": 8,
+      "name": "Kelime-i Şehadet",
+      "arabic": "أَشْهَدُ أَنْ لَا إِلٰهَ إِلَّا اللّٰهُ...",
+      "latin": "Eşhedü en lâ ilâhe illallah...",
+      "meaning": "Allah’tan başka ilah olmadığına şehadet ederim...",
+      "source": "Şehadet Duası"
+    },
+    {
+      "id": 9,
+      "name": "Estağfirullah (100 defa)",
+      "arabic": "أَسْتَغْفِرُ اللّٰهَ",
+      "latin": "Estağfirullah.",
+      "meaning": "Allah'tan bağışlanma dilerim.",
+      "source": "İstiğfar"
+    },
+    {
+      "id": 10,
+      "name": "Lâ havle velâ kuvvete illâ billâh",
+      "arabic": "لَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللّٰهِ",
+      "latin": "Lâ havle velâ kuvvete illâ billâh.",
+      "meaning": "Allah’ın izni olmadan güç ve kuvvet yoktur.",
+      "source": "Zikir"
+    },
+    {
+      "id": 11,
+      "name": "Namaz Sonrası Kapanış Duası",
+      "arabic": "اَللّٰهُمَّ أَنْتَ السَّلَامُ وَمِنْكَ السَّلَامُ...",
+      "latin": "Allahümme ente’s-selâm ve minke’s-selâm...",
+      "meaning": "Allah’ım! Selâm sensin, selâmet Sendedir...",
+      "source": "Müslim, Mesacid 135"
+    }
+  ]
+}
