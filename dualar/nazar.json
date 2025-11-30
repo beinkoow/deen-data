@@ -1,0 +1,38 @@
+{
+  "title": "Nazar Duaları",
+  "description": "Nazar, haset ve kötü bakışlardan korunmak için okunur.",
+  "items": [
+    {
+      "id": 1,
+      "name": "Nazar Ayeti",
+      "arabic": "وَاِنْ يَكَادُ الَّذ۪ينَ كَفَرُوا...",
+      "latin": "Ve in yekâdullezîne keferû...",
+      "meaning": "Kötü bakışların zarar vermesine karşı okunan ayet.",
+      "repeat": 1
+    },
+    {
+      "id": 2,
+      "name": "Felak Suresi",
+      "arabic": "قُلْ اَعُوذُ بِرَبِّ الْفَلَقِ",
+      "latin": "Kul eûzü birabbil felak.",
+      "meaning": "Her türlü kötülükten Allah’a sığınma duası.",
+      "repeat": 1
+    },
+    {
+      "id": 3,
+      "name": "Nas Suresi",
+      "arabic": "قُلْ اَعُوذُ بِرَبِّ النَّاسِ",
+      "latin": "Kul eûzü birabbin nâs.",
+      "meaning": "Vesvese ve kötülüklerden korunma duası.",
+      "repeat": 1
+    },
+    {
+      "id": 4,
+      "name": "Hasbiyallah",
+      "arabic": "حَسْبِيَ اللّٰهُ وَنِعْمَ الْوَكِيلُ",
+      "latin": "Hasbiyallâhu ve ni'mel vekîl.",
+      "meaning": "Allah bana yeter, O ne güzel vekildir.",
+      "repeat": 3
+    }
+  ]
+}
