@@ -1,0 +1,86 @@
+{
+  "title": "Tevbe Ayetleri",
+  "description": "Günahların bağışlanması, arınma, Allah’a dönüş, tövbenin kabulü ve manevi yenilenme için okunabilecek Kur’an ayetleri.",
+  "items": [
+    {
+      "id": 1,
+      "surah": "Zümer 53",
+      "arabic": "قُلْ يَا عِبَادِيَ الَّذِينَ أَسْرَفُوا عَلَىٰ أَنْفُسِهِمْ لَا تَقْنَطُوا مِنْ رَحْمَةِ اللَّهِ",
+      "latin": "Kul yâ ibâdiyellezîne esrefû alâ enfusihim lâ taknetû min rahmetillâh",
+      "meaning": "De ki: Ey kendilerine zulmeden kullarım! Allah’ın rahmetinden ümit kesmeyin.",
+      "note": "Tevbenin kapısının sonsuza dek açık olduğunu vurgulayan en güçlü ayetlerden biridir."
+    },
+    {
+      "id": 2,
+      "surah": "Bakara 222",
+      "arabic": "إِنَّ اللَّهَ يُحِبُّ التَّوَّابِينَ وَيُحِبُّ الْمُتَطَهِّرِينَ",
+      "latin": "Innallâhe yuhibbut-tavvâbîne ve yuhibbul mutatahhirîn",
+      "meaning": "Şüphesiz Allah çokça tevbe edenleri ve çokça temizlenenleri sever.",
+      "note": "Allah’ın tövbe eden kulunu sevdiğini açıkça söyleyen ayettir."
+    },
+    {
+      "id": 3,
+      "surah": "Hûd 3",
+      "arabic": "وَأَنِ اسْتَغْفِرُوا رَبَّكُمْ ثُمَّ تُوبُوا إِلَيْهِ",
+      "latin": "Ve enisteğfirû rabbekum sümme tûbû ileyh",
+      "meaning": "Rabbinizden bağışlanma dileyin ve O’na tövbe ile dönün.",
+      "note": "Tevbe + istiğfar birlikteliğini gösterir. Arınmayı hızlandırır."
+    },
+    {
+      "id": 4,
+      "surah": "Tahrim 8",
+      "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا تُوبُوا إِلَى اللَّهِ تَوْبَةً نَصُوحًا",
+      "latin": "Yâ eyyuhellezîne âmenû tûbû ilallâhi tevbaten nasûhâ",
+      "meaning": "Ey iman edenler! Allah’a içten, samimi bir tövbe ile dönün.",
+      "note": "Nasuh tevbesi → bir daha dönmemek üzere yapılan en güçlü tevbe."
+    },
+    {
+      "id": 5,
+      "surah": "Nisâ 110",
+      "arabic": "وَمَنْ يَعْمَلْ سُوءًا أَوْ يَظْلِمْ نَفْسَهُ ثُمَّ يَسْتَغْفِرِ اللَّهَ يَجِدِ اللَّهَ غَفُورًا رَحِيمًا",
+      "latin": "Ve men ya’mel sû’en ev yazlim nefsahû sümme yestagfirillâhe yecidillâhe gafûran rahîmâ",
+      "meaning": "Kim kötülük yapar veya kendine zulmeder, ardından Allah’tan bağışlanma dilerse Allah’ı çok bağışlayıcı ve merhametli bulur.",
+      "note": "İşlenen her günahın ardından istiğfar kapısının açık olduğunu bildirir."
+    },
+    {
+      "id": 6,
+      "surah": "Âl-i İmrân 135",
+      "arabic": "وَالَّذِينَ إِذَا فَعَلُوا فَاحِشَةً ... ذَكَرُوا اللَّهَ فَاسْتَغْفَرُوا",
+      "latin": "Vellezîne izâ fealû fâhişeten ev zalemû enfusehum zekerûllâhe festagferû",
+      "meaning": "Onlar bir günah işlediklerinde hemen Allah’ı hatırlar ve bağışlanma dilerler.",
+      "note": "Tevbeyi geciktirmemeyi ve günahı biriktirmemeyi öğütler."
+    },
+    {
+      "id": 7,
+      "surah": "Şûrâ 25",
+      "arabic": "وَهُوَ الَّذِي يَقْبَلُ التَّوْبَةَ عَنْ عِبَادِهِ",
+      "latin": "Ve huvellezî yakbelu’t-tevbete an ibâdihî",
+      "meaning": "O, kullarından tövbeyi kabul eden Allah’tır.",
+      "note": "Allah’ın tövbeyi reddetmeyeceğini garanti eden en umut verici ayetlerden biri."
+    },
+    {
+      "id": 8,
+      "surah": "Tâhâ 82",
+      "arabic": "وَإِنِّي لَغَفَّارٌ لِمَنْ تَابَ",
+      "latin": "Ve innî leğaffârul limen tâb",
+      "meaning": "Ben, tövbe edenleri çokça bağışlayanım.",
+      "note": "Allah’ın bağışlamasının sınırsız olduğunu ima eden kısa ama çok etkili bir ayettir."
+    },
+    {
+      "id": 9,
+      "surah": "Nahl 119",
+      "arabic": "ثُمَّ إِنَّ رَبَّكَ لِلَّذِينَ عَمِلُوا السُّوءَ ... مِن بَعْدِ مَا فَعَلُوا ثُمَّ تَابُوا",
+      "latin": "Sümme inne rabbeke lillezîne amilû’s-sûe ... sümme tâbû",
+      "meaning": "Kötülük yapan, sonra tövbe edenler için Rabbin gerçekten bağışlayıcıdır.",
+      "note": "İşlenen günahın türü ne olursa olsun dönüş yapıldığında Allah’ın kabul edeceğini bildirir."
+    },
+    {
+      "id": 10,
+      "surah": "Maide 39",
+      "arabic": "فَمَن تَابَ مِن بَعْدِ ظُلْمِهِ وَأَصْلَحَ فَإِنَّ اللَّهَ يَتُوبُ عَلَيْهِ",
+      "latin": "Fe men tâbe min ba‘di zulmihî ve aslah fe innallâhe yetûbu aleyh",
+      "meaning": "Sonra tövbe edip durumunu düzelten kimse bilsin ki Allah onun tövbesini kabul eder.",
+      "note": "Tövbe + davranış düzeltme birlikte olduğunda en güçlü yenilenme gerçekleşir."
+    }
+  ]
+}
