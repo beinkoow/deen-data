@@ -1,0 +1,56 @@
+{
+  "title": "İstiğfar Duaları",
+  "description": "Günahların affı, tövbe ve Allah’a dönüş için en faziletli istiğfar duaları.",
+  "items": [
+    {
+      "id": 1,
+      "name": "Seyyidü'l-İstiğfar",
+      "arabic": "اللَّهُمَّ أَنْتَ رَبِّي لَا إِلَهَ إِلَّا أَنْتَ، خَلَقْتَنِي وَأَنَا عَبْدُكَ، وَأَنَا عَلَى عَهْدِكَ وَوَعْدِكَ مَا اسْتَطَعْتُ، أَعُوذُ بِكَ مِنْ شَرِّ مَا صَنَعْتُ، أَبُوءُ لَكَ بِنِعْمَتِكَ عَلَيَّ، وَأَبُوءُ بِذَنْبِي، فَاغْفِرْ لِي، فَإِنَّهُ لَا يَغْفِرُ الذُّنُوبَ إِلَّا أَنْتَ",
+      "latin": "Allahümme ente rabbî, lâ ilâhe illâ ente. Halaktanî ve ene abdük. Ve ene alâ ahdike ve va‘dike mesteta‘t. Eûzü bike min şerri mâ sana‘t. Ebûü leke bi ni‘metike aleyye, ve ebûü bi zenbî. Fagfir lî fe innehû lâ yağfiruz-zünûbe illâ ente.",
+      "meaning": "Allah’ım! Sen benim Rabbimsin. Senden başka ilah yoktur. Beni Sen yarattın, ben Senin kulunum. Gücüm yettiğince Sana verdiğim söz üzereyim. Yaptığım kötülüklerin şerrinden Sana sığınırım. Bana verdiğin nimetleri itiraf ediyorum, günahımı da itiraf ediyorum. Beni bağışla; çünkü günahları Senden başka bağışlayan yoktur.",
+      "source": "Buhârî, Deavât 2"
+    },
+    {
+      "id": 2,
+      "arabic": "أَسْتَغْفِرُ اللَّهَ الْعَظِيمَ الَّذِي لَا إِلَهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ وَأَتُوبُ إِلَيْهِ",
+      "latin": "Estağfirullâhel-azîm ellezî lâ ilâhe illâ hüve’l-hayyü’l-kayyûm ve etûbu ileyh.",
+      "meaning": "Ben, kendisinden başka ilah olmayan, diri ve her şeyin yöneticisi olan Allah’tan bağışlanma diler ve Ona tövbe ederim.",
+      "source": "Tirmizî, Daavât 30"
+    },
+    {
+      "id": 3,
+      "arabic": "رَبِّ اغْفِرْ لِي وَتُبْ عَلَيَّ، إِنَّكَ أَنْتَ التَّوَّابُ الرَّحِيمُ",
+      "latin": "Rabbigfir lî ve tub aleyye, inneke ente’t-Tevvâbü’r-Rahîm.",
+      "meaning": "Rabbim! Beni bağışla, tövbemi kabul et. Şüphesiz Sen tövbeleri çokça kabul eden ve çok merhametlisin.",
+      "source": "Tirmizî, Daavât 110"
+    },
+    {
+      "id": 4,
+      "arabic": "سُبْحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ، أَسْتَغْفِرُكَ وَأَتُوبُ إِلَيْكَ",
+      "latin": "Sübhâneke Allahümme ve bi hamdik, estağfiruke ve etûbu ileyk.",
+      "meaning": "Allah’ım! Seni tesbih eder ve överim. Senden bağışlanma diler ve Sana tövbe ederim.",
+      "source": "Buhârî, Salât 121"
+    },
+    {
+      "id": 5,
+      "arabic": "أَسْتَغْفِرُ اللَّهَ وَأَتُوبُ إِلَيْهِ",
+      "latin": "Estağfirullâh ve etûbu ileyh.",
+      "meaning": "Allah’tan bağışlanma diler ve Ona tövbe ederim.",
+      "source": "Müslim, Zikir 46"
+    },
+    {
+      "id": 6,
+      "arabic": "اللَّهُمَّ إِنِّي ظَلَمْتُ نَفْسِي ظُلْمًا كَثِيرًا، وَلَا يَغْفِرُ الذُّنُوبَ إِلَّا أَنْتَ، فَاغْفِرْ لِي مَغْفِرَةً مِنْ عِنْدِكَ، وَارْحَمْنِي إِنَّكَ أَنْتَ الْغَفُورُ الرَّحِيمُ",
+      "latin": "Allahümme innî zalemtü nefsî zulmen kesîrâ, ve lâ yağfiruz-zünûbe illâ ente, fagfir lî mağfireten min indîke verhamnî inneke entel-Gafûrur-Rahîm.",
+      "meaning": "Allah’ım! Ben kendime çok zulmettim. Günahları Senden başka bağışlayacak yoktur. Beni kendi katından bir mağfiretle bağışla ve merhamet et. Şüphesiz Sen çok bağışlayan, çok merhametlisin.",
+      "source": "Buhârî, Deavât 16"
+    },
+    {
+      "id": 7,
+      "arabic": "رَبِّ اغْفِرْ لِي وَلِوَالِدَيَّ",
+      "latin": "Rabbiğfir lî veli vâlideyye.",
+      "meaning": "Rabbim! Beni ve anne-babamı bağışla.",
+      "source": "İbrahim Suresi 41"
+    }
+  ]
+}
