@@ -1,0 +1,70 @@
+{
+  "title": "İman Ayetleri",
+  "description": "Allah’a iman, tevhid, teslimiyet ve kulluğun özünü anlatan ayetler.",
+  "items": [
+    {
+      "id": 1,
+      "surah": "Bakara 285",
+      "arabic": "آمَنَ الرَّسُولُ بِمَا أُنْزِلَ إِلَيْهِ مِن رَّبِّهِ وَالْمُؤْمِنُونَ...",
+      "latin": "Âmenar-rasûlu bimâ unzile ileyhi min rabbihî vel-mu’minûn...",
+      "meaning": "Peygamber, Rabbinden kendisine indirilene iman etti; müminler de iman ettiler. Hepsi Allah’a, meleklerine, kitaplarına ve peygamberlerine iman ettiler.",
+      "note": "İmanın altı esası"
+    },
+    {
+      "id": 2,
+      "surah": "Nisa 136",
+      "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا آمِنُوا بِاللَّهِ وَرَسُولِهِ...",
+      "latin": "Yâ eyyuhel-lezîne âmenû âminû billâhi ve resûlihî...",
+      "meaning": "Ey iman edenler! Allah’a, Peygamberine, indirdiği Kitaba ve daha önce indirdiği kitaplara iman edin.",
+      "note": "Kur'an’ın en güçlü iman çağrılarından biri"
+    },
+    {
+      "id": 3,
+      "surah": "İhlas Suresi",
+      "arabic": "قُلْ هُوَ اللَّهُ أَحَدٌ * اللَّهُ الصَّمَدُ...",
+      "latin": "Kul hüvallâhu ehad, Allâhü’s-samad...",
+      "meaning": "De ki: O, Allah’tır, tektir. Allah Samed’dir; her şey Ona muhtaçtır, O hiçbir şeye muhtaç değildir.",
+      "note": "Tevhidin özeti — Kur’an’ın üçte birine denk sevap"
+    },
+    {
+      "id": 4,
+      "surah": "Zümer 38",
+      "arabic": "قُلْ أَفَرَأَيْتُم مَّا تَدْعُونَ مِن دُونِ اللَّهِ...",
+      "latin": "Kul eferaeytum mâ ted’une min dûnillâh...",
+      "meaning": "De ki: Allah’a karşı size bir zarar gelmek isterse O’ndan başka kim onu giderebilir?",
+      "note": "Teslimiyet ayeti"
+    },
+    {
+      "id": 5,
+      "surah": "Ahzab 3",
+      "arabic": "وَتَوَكَّلْ عَلَى اللَّهِ وَكَفَى بِاللَّهِ وَكِيلًا",
+      "latin": "Ve tevekkel alâllâh; vekefâ billâhi vekîlâ.",
+      "meaning": "Allah’a tevekkül et! Vekil olarak Allah yeter.",
+      "note": "Tevekkülün en kısa ve öz ifadesi"
+    },
+    {
+      "id": 6,
+      "surah": "Âl-i İmran 173",
+      "arabic": "حَسْبُنَا اللَّهُ وَنِعْمَ الْوَكِيلُ",
+      "latin": "Hasbunallâhu ve ni’me’l-vekîl.",
+      "meaning": "Allah bize yeter; O ne güzel vekildir!",
+      "note": "Müminin imanda en güçlü dayanağı"
+    },
+    {
+      "id": 7,
+      "surah": "Fussilet 30",
+      "arabic": "إِنَّ الَّذِينَ قَالُوا رَبُّنَا اللَّهُ ثُمَّ اسْتَقَامُوا...",
+      "latin": "İnnel-lezîne kâlû rabbunallâh sümme’stekâmû...",
+      "meaning": "Rabbimiz Allah’tır deyip sonra dosdoğru olanlar üzerine melekler iner...",
+      "note": "İstikamet ayeti"
+    },
+    {
+      "id": 8,
+      "surah": "Hadid 4",
+      "arabic": "وَهُوَ مَعَكُمْ أَيْنَ مَا كُنتُمْ...",
+      "latin": "Ve huve me'akum eyne mâ kuntum...",
+      "meaning": "O, sizinle beraberdir; nerede olursanız olun.",
+      "note": "Allah’ın yakınlığını ve gözetimini anlatan ayet"
+    }
+  ]
+}
