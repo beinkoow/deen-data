@@ -1,26 +1,26 @@
 {
   "title": "Sabah Duaları",
-  "description": "Güne başlarken okunan sahih sabah zikirleri ve duaları.",
+  "description": "Güne başlarken okunan sabah zikirleri ve duaları.",
   "items": [
     {
       "id": 1,
-      "arabic": "اللّهـمَّ أَنْتَ رَبِّـي لا إلهَ إلاّ أَنْـتَ",
-      "latin": "Allahümme ente rabbî lâ ilâhe illâ ent",
-      "meaning": "Allah’ım! Sen benim Rabbimsin. Senden başka ilâh yoktur.",
+      "arabic": "اللَّهُمَّ أَنْتَ رَبِّي لَا إِلٰهَ إِلَّا أَنْتَ...",
+      "latin": "Allahumme ente rabbî lâ ilâhe illâ ente...",
+      "meaning": "Allah’ım! Sen benim Rabbimsin...",
       "source": "Tirmizî, Daavât 13"
     },
     {
       "id": 2,
-      "arabic": "أَصْـبَحْنَا وَأَصْـبَحَ الْمُـلْكُ لله",
-      "latin": "Asbahnâ ve asbaha’l-mulku lillâh",
-      "meaning": "Sabaha Allah’ın mülkünde eriştik.",
-      "source": "Ebu Davud 506"
+      "arabic": "أَصْبَحْنَا وَأَصْبَحَ الْمُلْكُ لِلَّهِ...",
+      "latin": "Asbahnâ ve asbaha’l-mulku lillâh...",
+      "meaning": "Sabaha Allah’ın mülkünde eriştik...",
+      "source": "Ebû Davud 506"
     },
     {
       "id": 3,
-      "arabic": "حَسْبِـيَ اللَّهُ لا إلهَ إلاّ هُوَ",
-      "latin": "Hasbiyallâhu lâ ilâhe illâ hüve",
-      "meaning": "Allah bana yeter. O’ndan başka ilâh yoktur.",
+      "arabic": "حَسْبِيَ اللَّهُ لَا إِلَٰهَ إِلَّا هُوَ...",
+      "latin": "Hasbiyallahu lâ ilâhe illâ hû...",
+      "meaning": "Allah bana yeter. O’ndan başka ilah yoktur...",
       "source": "Tevbe 129"
     }
   ]
