@@ -1,0 +1,102 @@
+{
+  "title": "Ahlak Ayetleri",
+  "description": "Doğruluk, adalet, merhamet, tevazu, sabır ve güzel ahlakla ilgili Kur’an ayetleri.",
+  "items": [
+    {
+      "id": 1,
+      "surah": "Kalem 4",
+      "arabic": "وَإِنَّكَ لَعَلَىٰ خُلُقٍ عَظِيمٍ",
+      "latin": "Ve inneke le'alâ hulukin azîm",
+      "meaning": "Şüphesiz sen büyük bir ahlak üzeresin.",
+      "note": "Peygamber Efendimizin üstün ahlakı vurgulanır."
+    },
+    {
+      "id": 2,
+      "surah": "Nahl 90",
+      "arabic": "إِنَّ اللَّهَ يَأْمُرُ بِالْعَدْلِ وَالْإِحْسَانِ",
+      "latin": "İnnaAllâhe ye'muru bil'adli vel ihsân",
+      "meaning": "Allah adaleti, iyiliği emreder.",
+      "note": "Ahlakın temeli olan adalet ve iyilik."
+    },
+    {
+      "id": 3,
+      "surah": "A'raf 199",
+      "arabic": "خُذِ الْعَفْوَ وَأْمُرْ بِالْعُرْفِ",
+      "latin": "Huzil'afve ve'mur bil'urfi",
+      "meaning": "Kolaylığı esas al, iyi olanı emret.",
+      "note": "Güzel ahlâkta yumuşaklık ve iyilik esastır."
+    },
+    {
+      "id": 4,
+      "surah": "Fussilet 34",
+      "arabic": "ادْفَعْ بِالَّتِي هِيَ أَحْسَنُ",
+      "latin": "İdfa' billetî hiye ahsen",
+      "meaning": "Kötülüğü en güzel olan davranışla sav.",
+      "note": "Güzel ahlak düşmanlığı bile dostluğa çevirir."
+    },
+    {
+      "id": 5,
+      "surah": "Ali İmran 159",
+      "arabic": "فَبِمَا رَحْمَةٍ مِّنَ اللَّهِ لِنتَ لَهُمْ",
+      "latin": "Fe bimâ rahmetin minallâhi linte lehum",
+      "meaning": "Allah’ın rahmeti sayesinde onlara yumuşak davrandın.",
+      "note": "Tevazu ve merhamet, liderlik ahlakının temelidir."
+    },
+    {
+      "id": 6,
+      "surah": "Hucurat 11",
+      "arabic": "لَا يَسْخَرْ قَوْمٌ مِّن قَوْمٍ",
+      "latin": "Lâ yeshar kavmun min kavm",
+      "meaning": "Hiçbir topluluk bir diğerini alaya almasın.",
+      "note": "Ahlaksız davranışlardan sakındırır."
+    },
+    {
+      "id": 7,
+      "surah": "Hucurat 12",
+      "arabic": "وَلَا يَغْتَب بَّعْضُكُم بَعْضًا",
+      "latin": "Ve lâ yağtab ba'dukum ba'dâ",
+      "meaning": "Birbirinizi gıybet etmeyin.",
+      "note": "Gıybet ve kötü konuşma kesin olarak yasaklanır."
+    },
+    {
+      "id": 8,
+      "surah": "Nahl 125",
+      "arabic": "ادْعُ إِلَىٰ سَبِيلِ رَبِّكَ بِالْحِكْمَةِ",
+      "latin": "Ud'u ilâ sebîli rabbike bil hikmeh",
+      "meaning": "Rabbinin yoluna hikmetle davet et.",
+      "note": "Güzel söz ve bilgelik ahlakın parçasıdır."
+    },
+    {
+      "id": 9,
+      "surah": "Furkan 63",
+      "arabic": "وَعِبَادُ الرَّحْمَٰنِ الَّذِينَ يَمْشُونَ عَلَى الْأَرْضِ هَوْنًا",
+      "latin": "Ve ibâdurrahmânillezîne yemşûne alel ardı hevnâ",
+      "meaning": "Rahman’ın kulları yeryüzünde tevazu ile yürürler.",
+      "note": "Müminin en temel ahlakı tevazudur."
+    },
+    {
+      "id": 10,
+      "surah": "Lokman 18",
+      "arabic": "وَلَا تُصَعِّرْ خَدَّكَ لِلنَّاسِ",
+      "latin": "Ve lâ tusa'ir haddake linnâs",
+      "meaning": "İnsanlara karşı kibirli davranma.",
+      "note": "Kibir ve büyüklenme yasaklanır."
+    },
+    {
+      "id": 11,
+      "surah": "Bakara 263",
+      "arabic": "قَوْلٌ مَّعْرُوفٌ وَمَغْفِرَةٌ خَيْرٌ",
+      "latin": "Qavlun ma‘rûfun ve mağfiretun hayr",
+      "meaning": "Güzel bir söz ve affedicilik daha iyidir.",
+      "note": "Ahlakta güzel sözün değeri vurgulanır."
+    },
+    {
+      "id": 12,
+      "surah": "Maide 8",
+      "arabic": "اعْدِلُوا هُوَ أَقْرَبُ لِلتَّقْوَىٰ",
+      "latin": "İ'dilû huve eqrabu lit-taqwâ",
+      "meaning": "Adaletli olun; bu takvaya daha yakındır.",
+      "note": "Adalet, ahlakın merkezindedir."
+    }
+  ]
+}
