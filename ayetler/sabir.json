@@ -1,0 +1,78 @@
+{
+  "title": "Sabır Ayetleri",
+  "description": "Müminler için sabrın fazileti, Allah’ın sabredenlerle beraber olması ve musibetler karşısındaki duruş hakkında ayetler.",
+  "items": [
+    {
+      "id": 1,
+      "surah": "Bakara 153",
+      "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا اسْتَعِينُوا بِالصَّبْرِ وَالصَّلَاةِ ۚ إِنَّ اللَّهَ مَعَ الصَّابِرِينَ",
+      "latin": "Yâ eyyuhellezîne âmenû's-teinû bi’s-sabri ve's-salâh, inneallâhe me'as-sâbirîn",
+      "meaning": "Ey iman edenler! Sabır ve namazla Allah’tan yardım isteyin. Şüphesiz Allah sabredenlerle beraberdir.",
+      "note": "Sabır + namaz = ilahi yardım formülü"
+    },
+    {
+      "id": 2,
+      "surah": "Zümer 10",
+      "arabic": "إِنَّمَا يُوَفَّى الصَّابِرُونَ أَجْرَهُمْ بِغَيْرِ حِسَابٍ",
+      "latin": "İnnemâ yuvaffa’s-sâbirûne ecrehum bi-gayri hisâb",
+      "meaning": "Sabredenlere mükâfatları hesapsız olarak verilecektir.",
+      "note": "Sabır karşılıksız ve sınırsız ecir getirir"
+    },
+    {
+      "id": 3,
+      "surah": "Âl-i İmrân 200",
+      "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا اصْبِرُوا وَصَابِرُوا وَرَابِطُوا...",
+      "latin": "Yâ eyyuhellezîne âmenû isbirû ve sâbirû ve râbitû...",
+      "meaning": "Ey iman edenler! Sabredin, sabırda yarışın ve Allah’a karşı gelmekten sakının ki kurtuluşa eresiniz.",
+      "note": "Mücadelede sabrı güçlendirme emri"
+    },
+    {
+      "id": 4,
+      "surah": "Bakara 286",
+      "arabic": "لَا يُكَلِّفُ اللَّهُ نَفْسًا إِلَّا وُسْعَهَا...",
+      "latin": "Lâ yukellifullâhu nefsen illâ vus'ahâ...",
+      "meaning": "Allah kimseye gücünün yettiğinden fazlasını yüklemez.",
+      "note": "Musibetlerde sabrı kolaylaştıran ilahi güvence"
+    },
+    {
+      "id": 5,
+      "surah": "Enfal 46",
+      "arabic": "وَاصْبِرُوا ۚ إِنَّ اللَّهَ مَعَ الصَّابِرِينَ",
+      "latin": "Vesbirû, inneallâhe me'as-sâbirîn",
+      "meaning": "Sabredin! Şüphesiz Allah sabredenlerle beraberdir.",
+      "note": "Sabrın en büyük müjdesi: Allah’ın beraberliği"
+    },
+    {
+      "id": 6,
+      "surah": "Furkan 75",
+      "arabic": "أُولَٰئِكَ يُجْزَوْنَ الْغُرْفَةَ بِمَا صَبَرُوا...",
+      "latin": "Ulâike yuczevnel ğurfete bimâ saberû...",
+      "meaning": "Sabretmelerine karşılık onlar, cennetin en yüksek makamlarıyla ödüllendirilecektir.",
+      "note": "Sabır → Cennetin üst dereceleri"
+    },
+    {
+      "id": 7,
+      "surah": "Hud 115",
+      "arabic": "وَاصْبِرْ فَإِنَّ اللَّهَ لَا يُضِيعُ أَجْرَ الْمُحْسِنِينَ",
+      "latin": "Vasbir feinneallâhe lâ yudîu ecre’l-muhsinîn",
+      "meaning": "Sabret! Çünkü Allah iyilik yapanların ecrini zayi etmez.",
+      "note": "Sabır + ihsan → garantili ödül"
+    },
+    {
+      "id": 8,
+      "surah": "Asr Suresi 3",
+      "arabic": "وَتَوَاصَوْا بِالصَّبْرِ",
+      "latin": "Ve tevâsav bi’s-sabr",
+      "meaning": "Birbirine sabrı tavsiye edenler.",
+      "note": "Sabır, kurtuluş reçetesinin dört şartından biri"
+    },
+    {
+      "id": 9,
+      "surah": "Yusuf 90",
+      "arabic": "إِنَّهُ مَنْ يَتَّقِ وَيَصْبِرْ فَإِنَّ اللَّهَ لَا يُضِيعُ أَجْرَ الْمُحْسِنِينَ",
+      "latin": "İnnehu men yetteki ve yasbir feinneallâhe lâ yudîu ecre’l-muhsinîn",
+      "meaning": "Kim sakınır ve sabrederse, şüphesiz Allah iyilik edenlerin ecrini zayi etmez.",
+      "note": "Hz. Yusuf’un sabır modeli"
+    }
+  ]
+}
